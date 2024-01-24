@@ -1,0 +1,29 @@
+{
+    "describe": 1610236232, 
+    "editor_res": false, 
+    "key": 206765, 
+    "map_name": "dm1_\u573a\u666f", 
+    "model_id": 551692, 
+    "name": 1725342594, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5361\u901a", 
+            "\u7ea2\u8272", 
+            "\u82b1", 
+            "\u5996\u602a\u5c0f\u73ed"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/206765", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_206765"
+}

@@ -1,0 +1,377 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    385, 
+                    0, 
+                    379, 
+                    708
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "image": 134269038, 
+            "name": "loading_background", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "loading_background"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 134221071, 
+            "name": "image_38", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "ab212de0-ffcf-44f9-a745-48a0f1b148ba"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 120841, 
+            "name": "logo", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1742.0, 
+                    985.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    90.72916666666667, 
+                    91.20370370370371
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    218.0, 
+                    100.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "logo", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                871.5, 
+                183.5, 
+                1563.0, 
+                315.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    35
+                ]
+            }, 
+            "name": "label_loading", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1584.0, 
+                    195.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    82.5, 
+                    18.055555555555554
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    42.0, 
+                    25.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "50%", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "label_loading"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 120840, 
+                    "name": "image_81", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            130.0, 
+                            10.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            106.55737704918033, 
+                            31.25
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            14.0, 
+                            14.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "image_81"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 120840, 
+                    "name": "image_83", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            146.0, 
+                            10.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            119.67213114754098, 
+                            31.25
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            14.0, 
+                            14.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "image_83"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 120840, 
+                    "name": "image_84", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            166.0, 
+                            10.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            136.0655737704918, 
+                            31.25
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            14.0, 
+                            14.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "image_84"
+                }
+            ], 
+            "event_list": [], 
+            "image": 120839, 
+            "name": "image_82", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    946.0, 
+                    133.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    49.270833333333336, 
+                    12.314814814814815
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    122.0, 
+                    32.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "image_82"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 106409, 
+            "name": "loadingbar", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    965.0, 
+                    85.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.260416666666664, 
+                    7.87037037037037
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1442.0, 
+                    14.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "loadingbar"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                839.0, 
+                165.0, 
+                793.0, 
+                793.0
+            ], 
+            "bg_image": null, 
+            "children": [], 
+            "event_list": [], 
+            "image": 106295, 
+            "name": "loading_bar_percent", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    965.0, 
+                    85.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.260416666666664, 
+                    7.87037037037037
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1442.0, 
+                    14.0
+                ]
+            }, 
+            "type": 5, 
+            "uid": "loading_bar_percent"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "loading_bar_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 5, 
+            "uid": "d499d639-48d1-43a5-b25c-a33920f95488", 
+            "visible": false
+        }
+    ], 
+    "name": "LoadingPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "LoadingPanel", 
+    "visible": true, 
+    "zorder": 400
+}

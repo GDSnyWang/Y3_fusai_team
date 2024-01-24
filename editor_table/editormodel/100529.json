@@ -1,0 +1,27 @@
+{
+    "describe": -1186087655, 
+    "editor_res": false, 
+    "key": 100529, 
+    "model_id": 100529, 
+    "name": 1742730415, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Green", 
+            "code_Grass"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100529", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 0.15, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100529"
+}

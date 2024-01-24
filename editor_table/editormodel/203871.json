@@ -1,0 +1,28 @@
+{
+    "describe": -1534949473, 
+    "editor_res": false, 
+    "key": 203871, 
+    "map_name": "x1t3", 
+    "model_id": 503303, 
+    "name": 136137012, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Green", 
+            "code_Grass"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/203871", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_203871"
+}

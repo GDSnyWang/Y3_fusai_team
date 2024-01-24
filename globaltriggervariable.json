@@ -1,0 +1,1926 @@
+{
+    "local_variable": {
+        "15352041": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 10
+            }
+        }, 
+        "32211099": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "suceess": false
+                }, 
+                "INTEGER": {
+                    "i": 1, 
+                    "num": 1
+                }, 
+                "ITEM_NAME": {
+                    "item_type": 0
+                }, 
+                "STRING": {
+                    "get_or_lose": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "get_or_lose": 0, 
+                "i": 0, 
+                "item_type": 0, 
+                "num": 0, 
+                "suceess": 0
+            }
+        }, 
+        "32727186": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "93069544": {
+            "variable_dict": {
+                "FLOAT": {
+                    "size": 0.0
+                }, 
+                "INTEGER": {
+                    "count": 0
+                }, 
+                "ROUND_AREA": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "count": 0, 
+                "size": 0
+            }
+        }, 
+        "116097173": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "143401191": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "149651601": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "154931435": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 10
+            }
+        }, 
+        "166428822": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0
+            }
+        }, 
+        "185602064": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Player ID": 1
+                }
+            }, 
+            "variable_length_dict": {
+                "Player ID": 0
+            }
+        }, 
+        "216760478": {
+            "variable_dict": {
+                "FLOAT": {
+                    "time": -1.0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0, 
+                "time": 0
+            }
+        }, 
+        "216760497": {
+            "variable_dict": {
+                "ANGLE": {
+                    "ball_angle": 0.0, 
+                    "mirror_angle": 0.0
+                }, 
+                "MOVER_ENTITY": {
+                    "move": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "ball_angle": 0, 
+                "mirror_angle": 0, 
+                "move": 0, 
+                "temp": 0
+            }
+        }, 
+        "267608127": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "295448805": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "300646567": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "336482528": {
+            "variable_dict": {
+                "INTEGER": {
+                    "guai": 0
+                }, 
+                "POINT": {
+                    "dian": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "dian": 10, 
+                "guai": 0
+            }
+        }, 
+        "367755437": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "on_bridge": false
+                }, 
+                "INTEGER": {
+                    "on_bridge_height": 0, 
+                    "time": 0
+                }, 
+                "NEW_TIMER": {
+                    "delete_count": -1, 
+                    "detect": -1
+                }, 
+                "POINT": {
+                    "create_point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "point_a": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "POLYGON": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "create_point": 0, 
+                "delete_count": 0, 
+                "detect": 0, 
+                "on_bridge": 0, 
+                "on_bridge_height": 0, 
+                "point_a": 0, 
+                "time": 0
+            }
+        }, 
+        "368271435": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "386814175": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1, 
+                    "temp2": -1
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "area_effect": 0, 
+                    "edge": 0, 
+                    "flower": 0
+                }, 
+                "ROUND_AREA": {
+                    "bossflower": 0
+                }, 
+                "SFX_ENTITY": {
+                    "texiao": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area_effect": 0, 
+                "bossflower": 0, 
+                "count": 0, 
+                "edge": 0, 
+                "flower": 0, 
+                "point": 0, 
+                "temp": 0, 
+                "temp2": 0, 
+                "texiao": 0
+            }
+        }, 
+        "401309865": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "401825918": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "451641523": {
+            "variable_dict": {
+                "ANGLE": {
+                    "ball_angle": 0.0, 
+                    "mirror_angle": 0.0
+                }, 
+                "MOVER_ENTITY": {
+                    "move": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "ball_angle": 0, 
+                "mirror_angle": 0, 
+                "move": 0, 
+                "temp": 0
+            }
+        }, 
+        "518750368": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "num": 0
+            }
+        }, 
+        "535527580": {
+            "variable_dict": {
+                "ANGLE": {
+                    "angle": 0.0
+                }, 
+                "BOOLEAN": {
+                    "shift": false
+                }, 
+                "FLOAT": {
+                    "acc_ratio": 0.0, 
+                    "distance": 0.0, 
+                    "tempx_1": 0.0, 
+                    "tempx_2": 0.0, 
+                    "tempy_1": 0.0, 
+                    "tempy_2": 0.0
+                }, 
+                "INTEGER": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "POINT": {
+                    "destination": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "status": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "acc_ratio": 0, 
+                "angle": 0, 
+                "destination": 0, 
+                "distance": 0, 
+                "shift": 0, 
+                "status": 0, 
+                "tempx_1": 0, 
+                "tempx_2": 0, 
+                "tempy_1": 0, 
+                "tempy_2": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "552820861": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "586375279": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "628355299": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "door29": 0, 
+                    "light": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "door29": 0, 
+                "light": 0
+            }
+        }, 
+        "720592988": {
+            "variable_dict": {
+                "ROUND_AREA": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0
+            }
+        }, 
+        "737370178": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "no_things": true
+                }
+            }, 
+            "variable_length_dict": {
+                "no_things": 0
+            }
+        }, 
+        "746606613": {
+            "variable_dict": {
+                "ANGLE": {
+                    "Degree": 0.0, 
+                    "SelectDegree": 0.0
+                }, 
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "Ram": 0
+                }, 
+                "POINT": {
+                    "AimPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "RANDOM_POOL": {
+                    "RamDegree": null
+                }, 
+                "RECTANGLE": {
+                    "area": 0
+                }, 
+                "STRING": {}, 
+                "UNIT_ENTITY": {
+                    "Unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "AimPoint": 0, 
+                "Degree": 10, 
+                "Ram": 0, 
+                "RamDegree": 0, 
+                "SelectDegree": 0, 
+                "Unit": 0, 
+                "area": 0
+            }
+        }, 
+        "754147472": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "787185835": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0, 
+                    "id": 0, 
+                    "num": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0, 
+                "id": 0, 
+                "num": 0
+            }
+        }, 
+        "837517487": {
+            "variable_dict": {
+                "FLOAT": {
+                    "a": 0.0, 
+                    "distance": 0.0, 
+                    "hight": 0.0, 
+                    "v": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "a": 0, 
+                "distance": 0, 
+                "hight": 0, 
+                "v": 0
+            }
+        }, 
+        "860160235": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 10
+            }
+        }, 
+        "912630028": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "921919609": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "938180765": {
+            "variable_dict": {
+                "MOVER_ENTITY": {
+                    "temp": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "938180773": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "have_thing": false
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "have_thing": 0, 
+                "item": 0
+            }
+        }, 
+        "938696828": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "989028480": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1005805630": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1, 
+                    "temp2": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0, 
+                "temp2": 0
+            }
+        }, 
+        "1022582853": {
+            "variable_dict": {
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "ITEM_NAME": {}, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "temp": 0
+            }
+        }, 
+        "1022582896": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1023127819": {
+            "variable_dict": {
+                "INTEGER": {
+                    "area": 0
+                }, 
+                "NEW_TIMER": {}
+            }, 
+            "variable_length_dict": {
+                "area": 0
+            }
+        }, 
+        "1032446179": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0
+            }
+        }, 
+        "1072914554": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1072914555": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1123246189": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "manure": false, 
+                    "mud": false, 
+                    "stone": false, 
+                    "water": false
+                }, 
+                "INTEGER": {
+                    "count1": 0, 
+                    "count2": 0, 
+                    "count3": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "count1": 0, 
+                "count2": 0, 
+                "count3": 0, 
+                "manure": 0, 
+                "mud": 0, 
+                "stone": 0, 
+                "water": 0
+            }
+        }, 
+        "1139507383": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "covered": false
+                }, 
+                "INTEGER": {
+                    "num_now": 0
+                }, 
+                "STRING": {
+                    "args": "", 
+                    "condition": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "args": 0, 
+                "condition": 0, 
+                "covered": 0, 
+                "num_now": 0
+            }
+        }, 
+        "1142108393": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 10
+            }
+        }, 
+        "1142378734": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num_next": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "num_next": 0
+            }
+        }, 
+        "1173577841": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0, 
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0, 
+                "i": 0
+            }
+        }, 
+        "1189839022": {
+            "variable_dict": {
+                "MOVER_ENTITY": {
+                    "temp_3": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp_1": -1, 
+                    "temp_2": -1
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "temp_4": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "temp_1": 0, 
+                "temp_2": 0, 
+                "temp_3": 0, 
+                "temp_4": 0
+            }
+        }, 
+        "1223909513": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "on_bridge": false
+                }, 
+                "INTEGER": {
+                    "on_bridge_height": 0, 
+                    "time": 0
+                }, 
+                "NEW_TIMER": {
+                    "delete_count": -1, 
+                    "detect": -1
+                }, 
+                "POINT": {
+                    "create_point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "point_a": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "POLYGON": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "create_point": 0, 
+                "delete_count": 0, 
+                "detect": 0, 
+                "on_bridge": 0, 
+                "on_bridge_height": 0, 
+                "point_a": 0, 
+                "time": 0
+            }
+        }, 
+        "1240686737": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1340833974": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp_1": -1, 
+                    "temp_2": -1
+                }, 
+                "STRING": {
+                    "args": "", 
+                    "move": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "args": 0, 
+                "move": 0, 
+                "temp_1": 0, 
+                "temp_2": 0
+            }
+        }, 
+        "1341350006": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1359040742": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "newdoor": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "newdoor": 0, 
+                "temp": 0
+            }
+        }, 
+        "1374904467": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1391165612": {
+            "variable_dict": {
+                "FLOAT": {
+                    "size": 0.0
+                }, 
+                "INTEGER": {
+                    "count": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "area_effect": 0, 
+                    "edge": 0, 
+                    "flower": 0
+                }, 
+                "ROUND_AREA": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "area_effect": 0, 
+                "count": 0, 
+                "edge": 0, 
+                "flower": 0, 
+                "size": 0, 
+                "temp": 0
+            }
+        }, 
+        "1407942826": {
+            "variable_dict": {
+                "INTEGER": {
+                    "target": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "ITEM_NAME": {
+                    "item_type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "item_type": 0, 
+                "target": 0
+            }
+        }, 
+        "1408458879": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1425236057": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1487040513": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Player ID": 1
+                }, 
+                "UNIT_ENTITY": {}
+            }, 
+            "variable_length_dict": {
+                "Player ID": 0
+            }
+        }, 
+        "1510887636": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "door": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "door": 0, 
+                "temp": 0
+            }
+        }, 
+        "1520046308": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1542160564": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num_next": 0, 
+                    "num_now": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "character": 0
+                }, 
+                "UNIT_NAME": {
+                    "speaker_now": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "character": 0, 
+                "num_next": 0, 
+                "num_now": 0, 
+                "speaker_now": 0
+            }
+        }, 
+        "1558937781": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "character": 0
+                }, 
+                "UNIT_NAME": {
+                    "character_type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "character": 0, 
+                "character_type": 0, 
+                "num": 0
+            }
+        }, 
+        "1559453815": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1576231073": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "temp_1": 0, 
+                    "temp_2": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "temp_1": 10, 
+                "temp_2": 10
+            }
+        }, 
+        "1626046632": {
+            "variable_dict": {
+                "FLOAT": {
+                    "min_distance": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "target": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "min_distance": 0, 
+                "target": 0
+            }
+        }, 
+        "1660117083": {
+            "variable_dict": {
+                "FLOAT": {
+                    "size": 0.0
+                }, 
+                "INTEGER": {
+                    "count": 0
+                }, 
+                "ROUND_AREA": {
+                    "area": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "count": 0, 
+                "size": 0
+            }
+        }, 
+        "1676378275": {
+            "variable_dict": {
+                "INTEGER": {
+                    "target": 0
+                }, 
+                "ITEM_NAME": {
+                    "plant": 0, 
+                    "seed": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "plant": 0, 
+                "seed": 0, 
+                "target": 0
+            }
+        }, 
+        "1676894275": {
+            "variable_dict": {
+                "INTEGER": {
+                    "length": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "length": 0
+            }
+        }, 
+        "1693155490": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "safe": true
+                }
+            }, 
+            "variable_length_dict": {
+                "safe": 0
+            }
+        }, 
+        "1693155515": {
+            "variable_dict": {
+                "ITEM_NAME": {
+                    "decoration": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "decoration": 0
+            }
+        }, 
+        "1709932730": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "length": 0, 
+                    "num": 0
+                }, 
+                "ITEM_NAME": {
+                    "thing_type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "length": 0, 
+                "num": 0, 
+                "thing_type": 0
+            }
+        }, 
+        "1710448760": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1727225966": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1727225971": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "1754013929": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1760264346": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "1760264358": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "UI_COMP": {
+                    "heart_ui": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "heart_ui": 10, 
+                "i": 0
+            }
+        }, 
+        "1760780347": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "1777504277": {
+            "variable_dict": {
+                "ANGLE": {
+                    "DegreeX": 0.0, 
+                    "DegreeY": 0.0, 
+                    "SelectDegree": 0.0, 
+                    "degree": 0.0
+                }, 
+                "POINT": {
+                    "AimPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "RECTANGLE": {
+                    "area": 0
+                }, 
+                "STRING": {}, 
+                "UNIT_ENTITY": {
+                    "Unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "AimPoint": 0, 
+                "DegreeX": 10, 
+                "DegreeY": 10, 
+                "SelectDegree": 0, 
+                "Unit": 0, 
+                "area": 0, 
+                "degree": 0
+            }
+        }, 
+        "1827889240": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "1846431957": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "door": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "door": 0, 
+                "temp": 0
+            }
+        }, 
+        "1860927672": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp_1": -1, 
+                    "temp_2": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp_1": 0, 
+                "temp_2": 0
+            }
+        }, 
+        "1861443674": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "1878220938": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0
+            }
+        }, 
+        "1962106945": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp_1": -1, 
+                    "temp_2": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp_1": 0, 
+                "temp_2": 0
+            }
+        }, 
+        "1962107028": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0
+            }
+        }, 
+        "2045091859": {
+            "variable_dict": {
+                "ROUND_AREA": {
+                    "nowater": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "nowater": 0
+            }
+        }, 
+        "2062254227": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "num": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "temp": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "num": 0, 
+                "temp": 0
+            }
+        }, 
+        "2062254244": {
+            "variable_dict": {
+                "INTEGER": {
+                    "target": 0
+                }, 
+                "ITEM_NAME": {
+                    "plant": 0, 
+                    "seed": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "plant": 0, 
+                "seed": 0, 
+                "target": 0
+            }
+        }, 
+        "2079547521": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }, 
+        "2096324768": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0, 
+                    "num": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "temp_item": 0
+                }, 
+                "NEW_TIMER": {
+                    "temp": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0, 
+                "num": 0, 
+                "temp": 0, 
+                "temp_item": 0
+            }
+        }, 
+        "2113101911": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num_now": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "num_now": 0
+            }
+        }, 
+        "2113101938": {
+            "variable_dict": {
+                "INTEGER": {
+                    "closest_single_field": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "closest_single_field": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "BOOLEAN": {
+            "debug_mode": false, 
+            "new_game": false, 
+            "plant_manager_status": false
+        }, 
+        "DESTRUCTIBLE_ENTITY": {
+            "bridge": 0, 
+            "door_1": 0, 
+            "door_2": 0, 
+            "plant_temp_2": 0, 
+            "\u533a1\u5927\u95e8": 0
+        }, 
+        "FLOAT": {
+            "bias_angle": 0.0
+        }, 
+        "INTEGER": {
+            "battery": 5, 
+            "num_of_decoration": 0, 
+            "num_of_single_field": 16, 
+            "sound": 50
+        }, 
+        "ITEM_ENTITY": {
+            "plant_manager_item": 0, 
+            "plant_temp": 0, 
+            "\u51ef\u4e9a\u6267\u5ff5": 0
+        }, 
+        "ITEM_NAME": {
+            "bag_decoration": 0, 
+            "bag_seed": 0, 
+            "bag_tools": 0, 
+            "seed_show": 0
+        }, 
+        "NEW_TIMER": {
+            "battery_get": -1, 
+            "boss1_xunhuan": -1, 
+            "create_temp": -1, 
+            "deadly_count": -1, 
+            "lamp_stay": -1, 
+            "lose_heart_count": -1, 
+            "move_plant_count": -1, 
+            "qu1jishi": -1, 
+            "rotate": -1, 
+            "sound_long_down": -1, 
+            "sound_long_up": -1
+        }, 
+        "POINT": {
+            "plant_manager_point": [
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "PROJECTILE_ENTITY": {
+            "closest_signal": 0, 
+            "lamp_effect": 0, 
+            "qu1bianyuan": 0, 
+            "qu1hua": 0, 
+            "qu1texiao": 0, 
+            "shoot_ball": 0, 
+            "\u4f69\u7279\u7f57\u7f07\u7279\u6548": 0, 
+            "\u51ef\u4e9a\u7279\u6548": 0
+        }, 
+        "RECTANGLE": {}, 
+        "ROUND_AREA": {}, 
+        "SCENE_UI": {
+            "plant_manager_UI": null
+        }, 
+        "SOUND_ENTITY": {
+            "bgm": 0
+        }, 
+        "STRING": {
+            "bgm_now": ""
+        }, 
+        "TABLE": {
+            "files": null
+        }, 
+        "UI_COMP": {
+            "seed_hold": ""
+        }, 
+        "UI_PREFAB_INSTANCE": {}, 
+        "UNIT_ENTITY": {
+            "Player_Unit": 0, 
+            "\u4f69\u7279\u7f57\u7f07": 0, 
+            "\u51ef\u4e9a": 0
+        }, 
+        "UNIT_GROUP": {}
+    }, 
+    "variable_group_info": [
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "Player_Unit", 
+                        "Player_Unit"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "bias_angle", 
+                        "bias_angle"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "rotate", 
+                        "rotate"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "files", 
+                        "files"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "num_of_single_field", 
+                        "num_of_single_field"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "num_of_decoration", 
+                        "num_of_decoration"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "plant_manager_UI", 
+                        "plant_manager_UI"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "plant_manager_status", 
+                        "plant_manager_status"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "plant_manager_point", 
+                        "plant_manager_point"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "plant_manager_item", 
+                        "plant_manager_item"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "battery", 
+                        "battery"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "battery_get", 
+                        "battery_get"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "deadly_count", 
+                        "deadly_count"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "create_temp", 
+                        "create_temp"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "bridge", 
+                        "bridge"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "lamp_effect", 
+                        "lamp_effect"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "lamp_stay", 
+                        "lamp_stay"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "shoot_ball", 
+                        "shoot_ball"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "plant_temp", 
+                        "plant_temp"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "move_plant_count", 
+                        "move_plant_count"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "closest_signal", 
+                        "closest_signal"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "debug_mode", 
+                        "debug_mode"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "seed_show", 
+                        "seed_show"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "lose_heart_count", 
+                        "lose_heart_count"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "bag_seed", 
+                        "bag_seed"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "bag_decoration", 
+                        "bag_decoration"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "bag_tools", 
+                        "bag_tools"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "boss1_xunhuan", 
+                        "boss1_xunhuan"
+                    ]
+                }
+            ], 
+            "key": "X0lJQKouEe6LMrwP88Ol9k", 
+            "name": "SnyWang_variable"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "door_1", 
+                "door_1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "door_2", 
+                "door_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qu1texiao", 
+                "qu1texiao"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qu1bianyuan", 
+                "qu1bianyuan"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qu1hua", 
+                "qu1hua"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qu1jishi", 
+                "qu1jishi"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "seed_hold", 
+                "seed_hold"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "bgm_now", 
+                "bgm_now"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "bgm", 
+                "bgm"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "new_game", 
+                "new_game"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "plant_temp_2", 
+                "plant_temp_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "sound"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "sound_long_up", 
+                "sound_long_up"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "sound_long_down", 
+                "sound_long_down"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u533a1\u5927\u95e8", 
+                "\u533a1\u5927\u95e8"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51ef\u4e9a\u6267\u5ff5", 
+                "\u51ef\u4e9a\u6267\u5ff5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51ef\u4e9a", 
+                "\u51ef\u4e9a"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51ef\u4e9a\u7279\u6548", 
+                "\u51ef\u4e9a\u7279\u6548"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4f69\u7279\u7f57\u7f07", 
+                "\u4f69\u7279\u7f57\u7f07"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4f69\u7279\u7f57\u7f07\u7279\u6548", 
+                "\u4f69\u7279\u7f57\u7f07\u7279\u6548"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "Player_Unit": 0, 
+        "bag_decoration": 10, 
+        "bag_seed": 10, 
+        "bag_tools": 10, 
+        "battery": 0, 
+        "battery_get": 0, 
+        "bgm": 0, 
+        "bgm_now": 0, 
+        "bias_angle": 0, 
+        "boss1_xunhuan": 0, 
+        "bridge": 0, 
+        "closest_signal": 0, 
+        "create_temp": 0, 
+        "deadly_count": 0, 
+        "debug_mode": 0, 
+        "door_1": 0, 
+        "door_2": 0, 
+        "files": 10, 
+        "lamp_effect": 0, 
+        "lamp_stay": 0, 
+        "lose_heart_count": 0, 
+        "move_plant_count": 0, 
+        "new_game": 0, 
+        "num_of_decoration": 0, 
+        "num_of_single_field": 0, 
+        "plant_manager_UI": 10, 
+        "plant_manager_item": 10, 
+        "plant_manager_point": 10, 
+        "plant_manager_status": 10, 
+        "plant_temp": 0, 
+        "plant_temp_2": 0, 
+        "qu1bianyuan": 0, 
+        "qu1hua": 0, 
+        "qu1jishi": 0, 
+        "qu1texiao": 0, 
+        "rotate": 0, 
+        "seed_hold": 10, 
+        "seed_show": 10, 
+        "shoot_ball": 0, 
+        "sound": 0, 
+        "sound_long_down": 0, 
+        "sound_long_up": 0, 
+        "\u4f69\u7279\u7f57\u7f07": 0, 
+        "\u4f69\u7279\u7f57\u7f07\u7279\u6548": 0, 
+        "\u51ef\u4e9a": 0, 
+        "\u51ef\u4e9a\u6267\u5ff5": 0, 
+        "\u51ef\u4e9a\u7279\u6548": 0, 
+        "\u533a1\u5927\u95e8": 0
+    }
+}

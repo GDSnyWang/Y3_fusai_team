@@ -1,0 +1,29 @@
+{
+    "describe": 1467251279, 
+    "editor_res": false, 
+    "key": 10006, 
+    "map_name": "G57\u4e09\u56fd\u5982\u9f99", 
+    "model_id": 10006, 
+    "name": -867405181, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Purple", 
+            "code_Flowers"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/10006", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 0.1, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_10006"
+}

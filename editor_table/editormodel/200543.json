@@ -1,0 +1,32 @@
+{
+    "describe": -983029522, 
+    "editor_res": false, 
+    "key": 200543, 
+    "map_name": "M4scene", 
+    "model_id": 280024, 
+    "name": 1059287542, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Functional item", 
+            "code_Wooden", 
+            "code_Purple", 
+            "code_Door"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200543", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200543"
+}

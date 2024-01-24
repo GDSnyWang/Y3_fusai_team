@@ -1,0 +1,30 @@
+{
+    "describe": 1679574672, 
+    "editor_res": false, 
+    "key": 202598, 
+    "map_name": "H54scene1", 
+    "model_id": 506543, 
+    "name": -1663473469, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_European", 
+            "code_Magical", 
+            "code_Blue", 
+            "code_Flowers"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/202598", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_202598"
+}

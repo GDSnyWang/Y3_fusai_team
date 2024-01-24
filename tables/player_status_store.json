@@ -1,0 +1,91 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "Key", 
+                "Type", 
+                "Value", 
+                "Des"
+            ], 
+            [
+                "location_x", 
+                "float", 
+                "0.0", 
+                ""
+            ], 
+            [
+                "location_y", 
+                "float", 
+                "0.0", 
+                ""
+            ], 
+            [
+                "skills_get", 
+                "int", 
+                "0", 
+                ""
+            ], 
+            [
+                "skills_now", 
+                "int", 
+                "0", 
+                ""
+            ], 
+            [
+                "on_field", 
+                "bool", 
+                "false", 
+                ""
+            ], 
+            [
+                "nature_heart", 
+                "int", 
+                "8", 
+                null
+            ], 
+            [
+                "nature_heart_max", 
+                "int", 
+                "8", 
+                null
+            ], 
+            [
+                "nature_now", 
+                "string", 
+                "nature_of_town", 
+                null
+            ], 
+            [
+                "first_see_shop", 
+                "bool", 
+                "true", 
+                null
+            ], 
+            [
+                "get_iron", 
+                "bool", 
+                "false", 
+                null
+            ], 
+            [
+                "skip", 
+                "bool", 
+                "false", 
+                null
+            ], 
+            [
+                "first_water", 
+                "bool", 
+                "true", 
+                null
+            ]
+        ], 
+        "key": [
+            0
+        ], 
+        "kv_key_type": "str"
+    }, 
+    "table_type": 1, 
+    "tid": "0fd878ac-890a-4e00-85c1-52a41a00e4fd"
+}

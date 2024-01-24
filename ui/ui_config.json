@@ -1,0 +1,817 @@
+{
+    "design_resolution": {
+        "__tuple__": true, 
+        "items": [
+            1920, 
+            1080
+        ]
+    }, 
+    "design_resolution_index": 0, 
+    "first_init_ui_editor": true, 
+    "prefab_data": {
+        "01ced2d9-34eb-4ac7-88df-078c16beb8f7": {
+            "data": {
+                "bar_status": true, 
+                "children": [], 
+                "custom_kv": {}, 
+                "event_list": [
+                    {
+                        "action_list": [], 
+                        "enabled": true, 
+                        "name": "button_close_0", 
+                        "sound_id": null, 
+                        "type": -1
+                    }
+                ], 
+                "name": "button_close", 
+                "normal_font_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        89, 
+                        59, 
+                        33, 
+                        255
+                    ]
+                }, 
+                "normal_picture": 134250005, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "01ced2d9-34eb-4ac7-88df-078c16beb8f7", 
+                "press_picture": 134263753, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        60.0, 
+                        60.0
+                    ]
+                }, 
+                "suspend_picture": 134263753, 
+                "type": 1
+            }, 
+            "name": "close"
+        }, 
+        "4d9f7a38-b494-40d8-a075-ffe35234517e": {
+            "data": {
+                "children": [], 
+                "custom_kv": {}, 
+                "event_list": [
+                    {
+                        "action_list": [], 
+                        "enabled": true, 
+                        "name": "to_R_0", 
+                        "sound_id": 112968, 
+                        "type": -1
+                    }
+                ], 
+                "name": "to_R", 
+                "normal_picture": 134226957, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        401.0, 
+                        245.0
+                    ]
+                }, 
+                "pos_percent": {
+                    "__tuple__": true, 
+                    "items": [
+                        95.47619047619048, 
+                        48.03921568627451
+                    ]
+                }, 
+                "prefab_key": "4d9f7a38-b494-40d8-a075-ffe35234517e", 
+                "rotation": -90, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "touch_scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9, 
+                        0.9
+                    ]
+                }, 
+                "type": 1
+            }, 
+            "name": "TO"
+        }, 
+        "7f9a72ed-390c-45f7-ac3d-5fe8a0519bab": {
+            "data": {
+                "children": [
+                    {
+                        "children": [], 
+                        "color": {
+                            "__tuple__": true, 
+                            "items": [
+                                255, 
+                                199, 
+                                146, 
+                                255
+                            ]
+                        }, 
+                        "event_list": [], 
+                        "image": 131127, 
+                        "name": "image_9", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                68.0, 
+                                60.0
+                            ]
+                        }, 
+                        "pos_percent": {
+                            "__tuple__": true, 
+                            "items": [
+                                56.666666666666664, 
+                                50.0
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                100.0, 
+                                100.0
+                            ]
+                        }, 
+                        "type": 4
+                    }
+                ], 
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        96, 
+                        84, 
+                        72, 
+                        255
+                    ]
+                }, 
+                "custom_kv": {}, 
+                "event_list": [], 
+                "image": 131127, 
+                "name": "right", 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "7f9a72ed-390c-45f7-ac3d-5fe8a0519bab", 
+                "rotation": 180.0, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        120.0, 
+                        120.0
+                    ]
+                }, 
+                "type": 4
+            }, 
+            "name": "right"
+        }, 
+        "9291c71b-bb08-4949-a609-c830413c1062": {
+            "data": {
+                "adapter_option": [
+                    false, 
+                    true, 
+                    false, 
+                    true, 
+                    15.0, 
+                    3.0, 
+                    138.0, 
+                    0.0
+                ], 
+                "children": [
+                    {
+                        "alignment": {
+                            "__tuple__": true, 
+                            "items": [
+                                2, 
+                                8
+                            ]
+                        }, 
+                        "children": [], 
+                        "event_list": [], 
+                        "font": {
+                            "__tuple__": true, 
+                            "items": [
+                                "MSYH", 
+                                16
+                            ]
+                        }, 
+                        "name": "label_5", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                11.0, 
+                                11.0
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                22.0, 
+                                22.0
+                            ]
+                        }, 
+                        "text": {
+                            "__tuple__": true, 
+                            "items": [
+                                "10", 
+                                false
+                            ]
+                        }, 
+                        "type": 3
+                    }
+                ], 
+                "event_list": [], 
+                "image": 134221814, 
+                "name": "numsee", 
+                "open_adapter": true, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        149.0, 
+                        14.0
+                    ]
+                }, 
+                "pos_percent": {
+                    "__tuple__": true, 
+                    "items": [
+                        93.125, 
+                        35.0
+                    ]
+                }, 
+                "prefab_key": "9291c71b-bb08-4949-a609-c830413c1062", 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        22.0, 
+                        22.0
+                    ]
+                }, 
+                "type": 4
+            }, 
+            "name": "numsee"
+        }, 
+        "9790da1d-61cf-447f-a8ec-744cbba85c8e": {
+            "data": {
+                "children": [
+                    {
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 134247797, 
+                        "name": "hp", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                30.0, 
+                                22.500030517578125
+                            ]
+                        }, 
+                        "pos_percent": {
+                            "__tuple__": true, 
+                            "items": [
+                                50.0, 
+                                50.00006781684028
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                60.0, 
+                                45.0
+                            ]
+                        }, 
+                        "type": 4
+                    }
+                ], 
+                "custom_kv": null, 
+                "event_list": [], 
+                "image": 134253177, 
+                "name": "hpno", 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "9790da1d-61cf-447f-a8ec-744cbba85c8e", 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        60.0, 
+                        45.0
+                    ]
+                }, 
+                "type": 4
+            }, 
+            "name": "hp"
+        }, 
+        "9af6a2c2-c5ae-4ea3-b096-63c146e43e41": {
+            "data": {
+                "adapter_option": [
+                    false, 
+                    false, 
+                    false, 
+                    true, 
+                    495.0, 
+                    495.0, 
+                    915.0, 
+                    915.0
+                ], 
+                "bar_status": true, 
+                "children": [
+                    {
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 134235299, 
+                        "name": "image_12", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                45.0, 
+                                45.0
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                90.0, 
+                                90.0
+                            ]
+                        }, 
+                        "type": 4
+                    }
+                ], 
+                "custom_kv": {}, 
+                "disabled_picture": 134237273, 
+                "event_list": [
+                    {
+                        "action_list": [
+                            {
+                                "anim_duration": 1.0, 
+                                "anim_id": null, 
+                                "anim_type": 0, 
+                                "comp": "c8765ba6-439f-4ea1-82dd-d71bba2560bc", 
+                                "ease_type": 0, 
+                                "name": "Show_5", 
+                                "open_timeline": true, 
+                                "type": 2
+                            }
+                        ], 
+                        "enabled": true, 
+                        "name": "button_bag_0", 
+                        "sound_id": null, 
+                        "type": 2
+                    }
+                ], 
+                "name": "button_bag", 
+                "normal_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        254, 
+                        254, 
+                        254, 
+                        255
+                    ]
+                }, 
+                "normal_picture": 134237273, 
+                "open_adapter": true, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "9af6a2c2-c5ae-4ea3-b096-63c146e43e41", 
+                "press_picture": 134282793, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "suspend_picture": 134282793, 
+                "type": 1
+            }, 
+            "name": "90botom"
+        }, 
+        "ae118d14-b63e-4752-9f2f-f007dcd0a6a3": {
+            "data": {
+                "bar_status": true, 
+                "children": [], 
+                "custom_kv": {}, 
+                "event_list": [
+                    {
+                        "action_list": [], 
+                        "enabled": true, 
+                        "name": "button_4_0", 
+                        "sound_id": 112968, 
+                        "type": -1
+                    }
+                ], 
+                "font": {
+                    "__tuple__": true, 
+                    "items": [
+                        "MSYH", 
+                        20
+                    ]
+                }, 
+                "name": "button_4", 
+                "normal_picture": 134279907, 
+                "normal_text": {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u4e91\u53e4\u9547", 
+                        false
+                    ]
+                }, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                "press_picture": 134257576, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        128.0, 
+                        35.0
+                    ]
+                }, 
+                "suspend_picture": 134257576, 
+                "type": 1
+            }, 
+            "name": "warp"
+        }, 
+        "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29": {
+            "data": {
+                "adapter_option": [
+                    false, 
+                    false, 
+                    false, 
+                    true, 
+                    495.0, 
+                    495.0, 
+                    915.0, 
+                    915.0
+                ], 
+                "bar_status": true, 
+                "children": [], 
+                "custom_kv": {}, 
+                "disabled_picture": 134237273, 
+                "event_list": [
+                    {
+                        "action_list": [], 
+                        "enabled": true, 
+                        "name": "button_warp_0", 
+                        "sound_id": 112968, 
+                        "type": -1
+                    }
+                ], 
+                "name": "button_warp", 
+                "normal_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        254, 
+                        254, 
+                        254, 
+                        255
+                    ]
+                }, 
+                "normal_picture": 134240698, 
+                "open_adapter": true, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+                "press_picture": 134282793, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "suspend_picture": 134282793, 
+                "type": 1
+            }, 
+            "name": "90bottomnew"
+        }, 
+        "c472e1f8-177b-4525-a7e8-328c2f53f14f": {
+            "data": {
+                "adapter_option": [
+                    false, 
+                    false, 
+                    false, 
+                    true, 
+                    495.0, 
+                    495.0, 
+                    915.0, 
+                    915.0
+                ], 
+                "bar_status": true, 
+                "children": [], 
+                "custom_kv": {}, 
+                "disabled_picture": 134237273, 
+                "event_list": [
+                    {
+                        "action_list": [
+                            {
+                                "anim_duration": 1.0, 
+                                "anim_id": null, 
+                                "anim_type": 0, 
+                                "comp": "c8765ba6-439f-4ea1-82dd-d71bba2560bc", 
+                                "ease_type": 0, 
+                                "name": "Show_5", 
+                                "open_timeline": true, 
+                                "type": 2
+                            }
+                        ], 
+                        "enabled": true, 
+                        "name": "button_bag_0", 
+                        "sound_id": null, 
+                        "type": 2
+                    }
+                ], 
+                "name": "button_bag", 
+                "normal_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        254, 
+                        254, 
+                        254, 
+                        255
+                    ]
+                }, 
+                "normal_picture": 134237273, 
+                "open_adapter": true, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "c472e1f8-177b-4525-a7e8-328c2f53f14f", 
+                "press_picture": 134282793, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "suspend_picture": 134282793, 
+                "type": 1
+            }, 
+            "name": "90"
+        }, 
+        "d4743568-e8b3-40f6-9775-37fc887f6ea8": {
+            "data": {
+                "adapter_option": [
+                    false, 
+                    false, 
+                    false, 
+                    true, 
+                    270.0, 
+                    720.0, 
+                    1770.0, 
+                    60.0
+                ], 
+                "bar_status": true, 
+                "children": [], 
+                "disabled_picture": 134237273, 
+                "event_list": [
+                    {
+                        "action_list": [
+                            {
+                                "anim_duration": 1.0, 
+                                "anim_id": null, 
+                                "anim_type": 0, 
+                                "comp": "c8765ba6-439f-4ea1-82dd-d71bba2560bc", 
+                                "ease_type": 0, 
+                                "name": "Show_1", 
+                                "open_timeline": true, 
+                                "type": 2
+                            }
+                        ], 
+                        "enabled": true, 
+                        "name": "button_bag_0", 
+                        "sound_id": null, 
+                        "type": 2
+                    }
+                ], 
+                "name": "button_bag", 
+                "normal_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        220, 
+                        188, 
+                        111, 
+                        255
+                    ]
+                }, 
+                "normal_picture": 134237273, 
+                "open_adapter": true, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        1815.0, 
+                        765.0
+                    ]
+                }, 
+                "pos_percent": {
+                    "__tuple__": true, 
+                    "items": [
+                        94.53125, 
+                        70.83333333333334
+                    ]
+                }, 
+                "prefab_key": "d4743568-e8b3-40f6-9775-37fc887f6ea8", 
+                "press_picture": 134282793, 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "suspend_picture": 134282793, 
+                "type": 1
+            }, 
+            "name": "90"
+        }, 
+        "f8d9e89a-0814-465a-ac27-32779c7859cd": {
+            "data": {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "event_list": [], 
+                                "image": 134228335, 
+                                "name": "image_12", 
+                                "pos": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        45.0, 
+                                        45.0
+                                    ]
+                                }, 
+                                "size": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        90.0, 
+                                        90.0
+                                    ]
+                                }, 
+                                "type": 4
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "adapter_option": [
+                                            true, 
+                                            true, 
+                                            true, 
+                                            true, 
+                                            5.0, 
+                                            5.0, 
+                                            0.0, 
+                                            0.0
+                                        ], 
+                                        "alignment": {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                2, 
+                                                8
+                                            ]
+                                        }, 
+                                        "children": [], 
+                                        "event_list": [], 
+                                        "font": {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "MSYH", 
+                                                20
+                                            ]
+                                        }, 
+                                        "name": "do_choose", 
+                                        "pos": {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                30.0, 
+                                                15.0
+                                            ]
+                                        }, 
+                                        "size": {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                60.0, 
+                                                20.0
+                                            ]
+                                        }, 
+                                        "text": {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "\u9053\u5177", 
+                                                false
+                                            ]
+                                        }, 
+                                        "type": 3
+                                    }
+                                ], 
+                                "event_list": [], 
+                                "image": 134257523, 
+                                "name": "image_2", 
+                                "pos": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        45.0, 
+                                        1.0
+                                    ]
+                                }, 
+                                "pos_percent": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        1.1111111111111112
+                                    ]
+                                }, 
+                                "size": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        60.0, 
+                                        30.0
+                                    ]
+                                }, 
+                                "type": 4
+                            }
+                        ], 
+                        "event_list": [], 
+                        "name": "choose", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                45.0, 
+                                45.0
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                90.0, 
+                                90.0
+                            ]
+                        }, 
+                        "type": 7, 
+                        "visible": false
+                    }
+                ], 
+                "custom_kv": {}, 
+                "event_list": [], 
+                "name": "item", 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "f8d9e89a-0814-465a-ac27-32779c7859cd", 
+                "size": {
+                    "__tuple__": true, 
+                    "items": [
+                        90.0, 
+                        90.0
+                    ]
+                }, 
+                "type": 4
+            }, 
+            "name": "item"
+        }
+    }, 
+    "ui_template_id": null, 
+    "uid_version": true
+}

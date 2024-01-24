@@ -1,0 +1,31 @@
+{
+    "describe": -674059356, 
+    "editor_res": false, 
+    "key": 204058, 
+    "map_name": "x1", 
+    "model_id": 503994, 
+    "name": 456679332, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Blue", 
+            "code_Glass", 
+            "code_Bottle"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204058", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204058"
+}

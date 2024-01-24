@@ -1,0 +1,30 @@
+{
+    "describe": 269889277, 
+    "editor_res": false, 
+    "key": 202799, 
+    "map_name": "H54scene2", 
+    "model_id": 506725, 
+    "name": -1950768689, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_European", 
+            "code_Magical", 
+            "code_Green", 
+            "code_Seaweed"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/202799", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_202799"
+}

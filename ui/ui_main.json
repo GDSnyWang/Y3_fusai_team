@@ -1,0 +1,3315 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 134248327, 
+            "name": "image_42", 
+            "opacity": 0.5, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "6fb9c7ff-0b71-4dd5-be53-685d0cac37da"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                59.0, 
+                933.0, 
+                60.5, 
+                1360.5
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -1.5, 
+                        44.5, 
+                        -0.5, 
+                        349.5
+                    ], 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134259462, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.00011444091797, 
+                                            22.000038146972656
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.00022888183594, 
+                                            48.88897365993924
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "f0046797-6e7f-4d3e-8cf4-27fe1b8ba262"
+                                }
+                            ], 
+                            "custom_kv": {}, 
+                            "event_list": [], 
+                            "image": 134275073, 
+                            "name": "hpno", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    25.000022888183594, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    16.666681925455727, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "9790da1d-61cf-447f-a8ec-744cbba85c8e", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "14aac5a2-cdc3-4733-9420-c7f45566f36e"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "06e5cf6b-4f54-4e3b-b007-40b0ad56f703"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    125.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    83.33333333333334, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "aa3bbf84-1cb7-4688-803d-4e05f36c2035"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "31a48583-7613-46d3-9128-49f38d3a3d22"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "64deb061-682f-4304-9264-002e6ec1bec2"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "ui_HP", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            74.5, 
+                            67.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            14.929859719438879, 
+                            76.13636363636364
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            150.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "9a95f6ea-4828-4e03-9c5a-812411176d67"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -1.5, 
+                        44.5, 
+                        -0.5, 
+                        -0.5
+                    ], 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ece1f4fb-8b27-4f8c-96f2-06454b73a04c"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_9", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    475.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    95.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "650287e1-b15b-4e74-aaea-cb6a55210081"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "2eed5804-df39-47cc-b0a4-45a75052d747"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_8", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    425.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    85.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "945d9709-3138-4e08-afab-c3aefbbb41a2"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "c12bad80-2cb2-47e6-9af7-be9c44b25990"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_7", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    375.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "15e3fdae-f1b3-429f-aa7c-c88e6f2b4989"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "2a3904cd-3648-4a9f-989a-aa20edb685ad"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_6", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    325.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    65.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "df1485b6-b403-40fd-a683-f0aad54fd303"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ad632952-a0d4-46ca-ba02-74c43ba850ec"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_5", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    275.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    55.00000000000001, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "0872edf9-a7ba-47cd-82db-b695a9ae8f01"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "9abe61a3-84c9-4310-92f7-ab0ecae66a45"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    225.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "4a4c10f8-772f-4f9f-b45f-285805f7753f"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "2182078f-7a84-4188-8cc5-8e6ce709802f"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    175.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    35.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "b90d92e5-0faf-4785-8d14-7c34e883835a"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "ui_HPplus", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            249.5, 
+                            67.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            76.13636363636364
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            500.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "25ef9e96-6f44-467e-a19b-73879bf3fa6b"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        43.5, 
+                        -0.5, 
+                        -0.5, 
+                        -0.5
+                    ], 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "bb140f17-025c-4b44-943e-5a21dd7362b1"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    25.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    5.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "994d0003-5c28-4f86-a5ca-5b5b1e37f542"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "3a7c57c7-472c-47c7-89db-d41ecaa53ca4"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    15.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "839be114-203f-48b1-b5a6-08b494af9582"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "201e2899-c67b-4510-8650-715ceef579c0"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    125.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    25.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "d99b175a-cec7-46e6-b72b-66271fa9d03a"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "45ec1b7e-33f1-418e-889f-4dc6b8347848"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    175.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    35.0, 
+                                    48.888888888888886
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "32217c6f-455f-4ca5-9f5e-c614c041e251"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "f477521f-fcef-47f2-bfe5-f460d187a137"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    225.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "6a7f9221-6a8d-47c8-afdc-a51cf56d9242"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "84bbcba2-8585-4700-a220-687c7a7fe834"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_5", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    275.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    55.00000000000001, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "b709f19a-5c55-494e-a18c-b6e3bb2010a2"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "e847da5b-978a-4ea2-b278-5d0dd905f49a"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_6", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    325.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    65.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "64743276-36a0-4382-934a-0dbe6b7244e3"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "9943ca9b-f33b-4cae-8487-6ca875d58944"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_7", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    375.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "20b017b2-d2b9-4a79-b68b-f9fc063a1f49"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "9228163f-7bf6-4af3-b358-1c41282b37f9"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_8", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    425.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    85.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "db8e3ffc-4c76-491d-9e96-12bd7ed2d5c7"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134219076, 
+                                    "name": "hp", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            25.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            48.888888888888886
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            45.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "8d10595a-5817-4fc7-9a43-5a5962716d5c"
+                                }
+                            ], 
+                            "custom_kv": null, 
+                            "event_list": [], 
+                            "image": 134239743, 
+                            "name": "hpno_9", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    475.0, 
+                                    23.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    95.0, 
+                                    51.11111111111111
+                                ]
+                            }, 
+                            "prefab_key": "98b31c05-f470-42ae-939f-9d74b3dda2bc", 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "9aba654c-f1a6-4414-86eb-0a2bc8b21518"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "ui_HPplus2", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            249.5, 
+                            22.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            25.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            500.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "d60b79f4-c3c5-44e4-b4df-3784ef839073"
+                }
+            ], 
+            "event_list": [], 
+            "name": "hp", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    310.0, 
+                    977.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    16.145833333333336, 
+                    90.46296296296296
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    499.0, 
+                    88.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "a7d8b13b-ee08-4b22-a423-411385952767"
+        }, 
+        {
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        false, 
+                        true, 
+                        -20.0, 
+                        -20.0, 
+                        -40.0, 
+                        0.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            26
+                        ]
+                    }, 
+                    "name": "label_7", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            10.0, 
+                            30.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            16.666666666666664, 
+                            50.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "F  /", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "427a7d57-f215-4cac-9fd5-de6f5092a2c3"
+                }
+            ], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "image": 134260077, 
+            "name": "ui_mouseHint", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1050.0, 
+                    600.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    54.6875, 
+                    55.55555555555556
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    60.0, 
+                    60.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "a8195c16-f87a-40e6-a592-6581413e903a", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                true, 
+                60.0, 
+                959.0, 
+                1110.0, 
+                150.0
+            ], 
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "name": "NUM_naturevalue", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            253.0, 
+                            31.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            38.333333333333336, 
+                            50.81967213114754
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            40.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "number", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "d09a9231-a7cc-4113-9cd8-9c69719a4d0b"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "name": "NUM_money", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            518.0, 
+                            31.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            78.48484848484848, 
+                            50.81967213114754
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            40.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "number", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "7dc4f030-18e8-42ca-8223-e80f48173537"
+                }
+            ], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "image": 134231619, 
+            "name": "ui_rightup", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1440.0, 
+                    989.5
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    75.0, 
+                    91.62037037037038
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    660.0, 
+                    61.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "9df0774a-536e-434d-9cda-32c9cf943c8e"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                true, 
+                270.0, 
+                720.0, 
+                1770.0, 
+                60.0
+            ], 
+            "bar_status": true, 
+            "children": [], 
+            "custom_kv": {}, 
+            "disabled_picture": 134237273, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "c8765ba6-439f-4ea1-82dd-d71bba2560bc", 
+                            "ease_type": 0, 
+                            "name": "Show_1", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_bag_0", 
+                    "sound_id": 112968, 
+                    "type": 2
+                }
+            ], 
+            "name": "button_bag", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "normal_picture": 134243628, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1815.0, 
+                    765.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    94.53125, 
+                    70.83333333333334
+                ]
+            }, 
+            "prefab_key": "9af6a2c2-c5ae-4ea3-b096-63c146e43e41", 
+            "press_picture": 134282793, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    90.0
+                ]
+            }, 
+            "suspend_picture": 134282793, 
+            "type": 1, 
+            "uid": "53f3d6a6-5159-45d7-b40d-9142af8a1c34"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                true, 
+                390.2142333984375, 
+                599.7857666015625, 
+                1770.0, 
+                60.0
+            ], 
+            "bar_status": true, 
+            "children": [], 
+            "custom_kv": {}, 
+            "disabled_picture": 134237273, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "8cb3fe4e-5fab-4c1c-8b94-cded91b5f6ef", 
+                            "ease_type": 0, 
+                            "name": "Show_5", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_note_0", 
+                    "sound_id": 112968, 
+                    "type": 2
+                }
+            ], 
+            "name": "button_note", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "normal_picture": 134265297, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1815.0, 
+                    644.7857666015625
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    94.53125, 
+                    59.70238579644097
+                ]
+            }, 
+            "prefab_key": "c472e1f8-177b-4525-a7e8-328c2f53f14f", 
+            "press_picture": 134282793, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    90.0
+                ]
+            }, 
+            "suspend_picture": 134282793, 
+            "type": 1, 
+            "uid": "8f89feec-1826-42b7-9042-6547519aa13a"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                true, 
+                510.42852783203125, 
+                479.57147216796875, 
+                1768.0, 
+                62.0
+            ], 
+            "bar_status": true, 
+            "children": [], 
+            "custom_kv": {}, 
+            "disabled_picture": 134237273, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "7273a5c4-c5c1-4c84-9745-9814edac6c9d", 
+                            "ease_type": 0, 
+                            "name": "Show_6", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_warp_0", 
+                    "sound_id": 112968, 
+                    "type": 2
+                }, 
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "7273a5c4-c5c1-4c84-9745-9814edac6c9d", 
+                            "ease_type": 0, 
+                            "name": "Hide_10", 
+                            "open_timeline": true, 
+                            "type": 3
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_warp_1", 
+                    "sound_id": 112968, 
+                    "type": 26
+                }
+            ], 
+            "name": "button_warp", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "normal_picture": 134240698, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1813.0, 
+                    524.5714721679688
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    94.42708333333333, 
+                    48.57143260814525
+                ]
+            }, 
+            "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+            "press_picture": 134282793, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    90.0
+                ]
+            }, 
+            "suspend_picture": 134282793, 
+            "type": 1, 
+            "uid": "d84f7030-6df5-426d-a321-31eb85a3e5c1"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                false, 
+                true, 
+                750.0, 
+                60.0, 
+                1590.0, 
+                60.0
+            ], 
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134268850, 
+                    "name": "image_13", 
+                    "opacity": 0.6, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            152.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            56.2962962962963
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            270.0, 
+                            304.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "34afd43a-23dc-4ced-8dde-4cd6795934d7"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        false, 
+                        false, 
+                        180.0, 
+                        0.0, 
+                        90.00019836425781, 
+                        89.99980163574219
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "disabled_picture": 134237273, 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "7efc3c76-441c-49df-8062-d81842b097b9", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_23", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "da94cf0a-a7d8-4f87-9425-0ec86b2ea872", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_24", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "56189a3d-c6a1-4e77-8346-2ed4ee4c9eb4", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_25", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "26311c12-674f-427b-9c7e-cae36e0fda84", 
+                                    "ease_type": 0, 
+                                    "name": "Show_10", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_to_punch", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "button_punch", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 134271316, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0001983642578, 
+                            45.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.000073468243635, 
+                            16.666666666666664
+                        ]
+                    }, 
+                    "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+                    "press_picture": 134282793, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "suspend_picture": 134282793, 
+                    "type": 1, 
+                    "uid": "70f4d5dd-5ac0-47a1-a2d0-a68f709b9667", 
+                    "visible": false
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        false, 
+                        true, 
+                        90.00004577636719, 
+                        89.99995422363281, 
+                        180.00001525878906, 
+                        -0.0000152587890625
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "disabled_picture": 134237273, 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "da94cf0a-a7d8-4f87-9425-0ec86b2ea872", 
+                                    "ease_type": 0, 
+                                    "name": "Show_9", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "7efc3c76-441c-49df-8062-d81842b097b9", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_19", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "26311c12-674f-427b-9c7e-cae36e0fda84", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_20", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "56189a3d-c6a1-4e77-8346-2ed4ee4c9eb4", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_21", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_to_bridge", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "button_bridge", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 134242353, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            225.00001525878906, 
+                            134.9999542236328
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            83.3333389847367, 
+                            49.99998304578993
+                        ]
+                    }, 
+                    "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+                    "press_picture": 134282793, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "suspend_picture": 134282793, 
+                    "type": 1, 
+                    "uid": "e7af805c-93e6-47d9-9383-8b37e0851c95", 
+                    "visible": false
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        true, 
+                        false, 
+                        90.00004577636719, 
+                        89.99995422363281, 
+                        0.0, 
+                        180.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "disabled_picture": 134237273, 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "56189a3d-c6a1-4e77-8346-2ed4ee4c9eb4", 
+                                    "ease_type": 0, 
+                                    "name": "Show_8", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "7efc3c76-441c-49df-8062-d81842b097b9", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_16", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "da94cf0a-a7d8-4f87-9425-0ec86b2ea872", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_17", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "26311c12-674f-427b-9c7e-cae36e0fda84", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_18", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_to_lamp", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "button_lamp", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 134246269, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            45.0, 
+                            134.9999542236328
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            16.666666666666664, 
+                            49.99998304578993
+                        ]
+                    }, 
+                    "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+                    "press_picture": 134282793, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "suspend_picture": 134282793, 
+                    "type": 1, 
+                    "uid": "5de43cd7-39b2-42d1-a85e-2d2910087cbc", 
+                    "visible": false
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        0.0, 
+                        180.0, 
+                        90.0, 
+                        90.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "disabled_picture": 134237273, 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "7efc3c76-441c-49df-8062-d81842b097b9", 
+                                    "ease_type": 0, 
+                                    "name": "Show_7", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "da94cf0a-a7d8-4f87-9425-0ec86b2ea872", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_13", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "26311c12-674f-427b-9c7e-cae36e0fda84", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_14", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "56189a3d-c6a1-4e77-8346-2ed4ee4c9eb4", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_15", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_to_flower", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "button_flower", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "normal_picture": 134243160, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            225.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            83.33333333333334
+                        ]
+                    }, 
+                    "prefab_key": "b0c0e2d3-40f8-4326-b48a-2b4d1a30ce29", 
+                    "press_picture": 134282793, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "suspend_picture": 134282793, 
+                    "type": 1, 
+                    "uid": "c8c8dd82-6e2f-4ddd-a0cb-3505e0b47082", 
+                    "visible": false
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134249173, 
+                    "name": "image_33", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            225.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            83.33333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "7efc3c76-441c-49df-8062-d81842b097b9", 
+                    "visible": false
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134252128, 
+                    "name": "image_34", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            225.0, 
+                            135.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            83.33333333333334, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "da94cf0a-a7d8-4f87-9425-0ec86b2ea872", 
+                    "visible": false
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134243766, 
+                    "name": "image_35", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            45.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            16.666666666666664
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "26311c12-674f-427b-9c7e-cae36e0fda84", 
+                    "visible": false
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134221874, 
+                    "name": "image_37", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            45.0, 
+                            135.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            16.666666666666664, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            90.0, 
+                            90.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "56189a3d-c6a1-4e77-8346-2ed4ee4c9eb4", 
+                    "visible": false
+                }
+            ], 
+            "event_list": [], 
+            "name": "ui_skill", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1725.0, 
+                    195.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    89.84375, 
+                    18.055555555555554
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    270.0, 
+                    270.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "32a1cc12-f843-4357-8507-510611d82f65"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                false, 
+                false, 
+                750.0, 
+                270.0, 
+                510.0, 
+                510.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        15.0, 
+                        15.0, 
+                        130.0, 
+                        130.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            0
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "name": "itemhint_text", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            450.0, 
+                            30.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            640.0, 
+                            30.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u68c0\u6d4b\u6700\u8fd1\u7684\u53ef\u4ea4\u4e92\u9053\u5177/\u4eba\u7269\u7684\u540d\u5b57", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "typewriter_space": 1.0, 
+                    "uid": "7dca88d8-595e-4237-89ab-a47219c0484b"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134246221, 
+            "name": "ui_itemhint", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    300.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    27.77777777777778
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    900.0, 
+                    60.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "a8154267-b608-493d-9e61-10e8901b711b", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                false, 
+                false, 
+                825.0, 
+                60.0, 
+                510.0, 
+                510.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -21.0, 
+                        0.0, 
+                        -2.0, 
+                        -2.0
+                    ], 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                173.0, 
+                                5.0, 
+                                794.0, 
+                                72.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134260077, 
+                            "name": "image_41", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    813.0, 
+                                    24.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.93362831858407, 
+                                    11.11111111111111
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    38.0, 
+                                    38.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "97c62003-c478-4826-95a9-f3937c38453c"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134251488, 
+                    "name": "image_27", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            450.0, 
+                            108.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            55.38461538461539
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            904.0, 
+                            216.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "33062f44-b446-4a02-890d-f2a983c5daf9"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -6.0, 
+                        177.0, 
+                        212.5, 
+                        574.5
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "name": "talk_people", 
+                    "opacity": 0.97, 
+                    "open_adapter": true, 
+                    "over_pattern": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            269.0, 
+                            189.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            29.888888888888886, 
+                            96.92307692307692
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            113.0, 
+                            24.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u4eba\u540d", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "8c8da458-0efb-45e5-a253-156856f536b6"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        53.0, 
+                        52.0, 
+                        264.0, 
+                        100.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            0
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "name": "talk_text", 
+                    "open_adapter": true, 
+                    "over_pattern": 2, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            532.0, 
+                            97.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            59.111111111111114, 
+                            49.743589743589745
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            536.0, 
+                            90.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5bf9\u8bdd", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "b74e3f28-2f79-4b68-9eef-508cd6a3e720"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        15.0, 
+                        10.0, 
+                        7.0, 
+                        723.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134223465, 
+                    "name": "talk_head", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            92.0, 
+                            95.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            10.222222222222223, 
+                            48.717948717948715
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            170.0, 
+                            170.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "b0214c4f-817e-43a3-8d10-077f2c0632af"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "end_story", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            18
+                        ]
+                    }, 
+                    "name": "button_1", 
+                    "normal_picture": 999, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u70b9\u51fb\u6b64\u5904\u5f3a\u5236\u7ed3\u675f\u5267\u60c5", 
+                            true
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            809.0, 
+                            213.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            89.88888888888889, 
+                            109.23076923076923
+                        ]
+                    }, 
+                    "touch_scale": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.8, 
+                            0.8
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "62dda937-c3e8-4f45-bfba-4faead2aeac1"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ui_talk", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    157.5
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    14.583333333333334
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    900.0, 
+                    195.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "18660136-d2fd-4b63-bced-966bd54d19ab", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                750.0, 
+                60.0, 
+                60.0, 
+                1590.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        false, 
+                        false, 
+                        136.0, 
+                        74.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    20
+                                ]
+                            }, 
+                            "name": "plant_name", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    72.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.666666666666668, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    60.0, 
+                                    20.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u690d\u7269\u540d", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "2d4cf848-3340-4439-9ad0-51c325cacceb"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134267455, 
+                    "name": "glow_complete", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            104.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            38.51851851851852
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            270.0, 
+                            60.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "395ba257-5d63-4509-9cb7-55c419dd6d7a"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        false, 
+                        false, 
+                        210.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    20
+                                ]
+                            }, 
+                            "name": "plant_name", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    72.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.666666666666668, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    60.0, 
+                                    20.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u690d\u7269\u540d", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "014125ec-4265-4866-945f-b62ce66a9c5f"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134238557, 
+                    "name": "glow_stop", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            135.0, 
+                            30.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            11.11111111111111
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            270.0, 
+                            60.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "6d0af59a-27b3-447a-9318-f9bd7b39ee9f"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ui_glowing", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    195.0, 
+                    195.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    10.15625, 
+                    18.055555555555554
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    270.0, 
+                    270.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "495b368c-2b42-4dc3-bbfd-c3c90e4ede0b", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                162.0, 
+                910.0, 
+                61.0, 
+                1359.0
+            ], 
+            "bg_image": 134224489, 
+            "children": [], 
+            "current_value": 100.0, 
+            "event_list": [], 
+            "image": 134241700, 
+            "name": "progress_1", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    311.0, 
+                    914.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    16.197916666666668, 
+                    84.62962962962963
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    500.0, 
+                    8.0
+                ]
+            }, 
+            "type": 5, 
+            "uid": "1e7c3297-e607-4c8c-8051-9d09159a084d"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                false, 
+                false, 
+                630.0, 
+                420.0, 
+                860.0, 
+                860.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        false, 
+                        false, 
+                        6.9999847412109375, 
+                        7.0000152587890625, 
+                        10.000015258789062, 
+                        9.999984741210938
+                    ], 
+                    "bg_image": 134224489, 
+                    "children": [], 
+                    "current_value": 100.0, 
+                    "event_list": [], 
+                    "image": 134241700, 
+                    "name": "progress_lamp", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.00001525878906, 
+                            15.000015258789062
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.000007629394524, 
+                            50.00005086263021
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            180.0, 
+                            16.0
+                        ]
+                    }, 
+                    "type": 5, 
+                    "uid": "8b0e0696-7574-4fa5-898d-c7ee801064a3"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134226100, 
+            "name": "lamp_charge", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    435.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    40.27777777777778
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    30.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "41414262-730a-4402-8b2c-cc4f7cce0d9e", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                true, 
+                60.0, 
+                960.0, 
+                1800.0, 
+                60.0
+            ], 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "4be540e2-42c5-423b-8ce4-cbf8ef5ae03b", 
+                            "ease_type": 0, 
+                            "name": "Show_11", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_2_0", 
+                    "sound_id": 112968, 
+                    "type": 2
+                }
+            ], 
+            "name": "button_set", 
+            "normal_picture": 134219315, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1830.0, 
+                    990.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    95.3125, 
+                    91.66666666666666
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    60.0, 
+                    60.0
+                ]
+            }, 
+            "touch_scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.9, 
+                    0.9
+                ]
+            }, 
+            "type": 1, 
+            "uid": "a10831e7-8285-49ee-b320-1ebc507c2c86"
+        }
+    ], 
+    "name": "ui_main", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "00f4560c-e5f4-4dbd-9b63-9464d4504bb1", 
+    "visible": true, 
+    "zorder": 400
+}

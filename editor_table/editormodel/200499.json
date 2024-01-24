@@ -1,0 +1,31 @@
+{
+    "describe": -961625841, 
+    "editor_res": false, 
+    "key": 200499, 
+    "map_name": "M4scene", 
+    "model_id": 280011, 
+    "name": -1561302360, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Functional item", 
+            "code_Cyan", 
+            "code_Stone", 
+            "code_Gemstones"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200499", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200499"
+}

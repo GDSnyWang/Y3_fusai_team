@@ -1,0 +1,26 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "key", 
+                "ID", 
+                "position_x", 
+                "position_y", 
+                "angle"
+            ], 
+            [
+                "int", 
+                "destructible_type", 
+                "float", 
+                "float", 
+                "angle"
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": "05f74af8-10a5-4edf-a356-a4eedcfae8c8"
+}

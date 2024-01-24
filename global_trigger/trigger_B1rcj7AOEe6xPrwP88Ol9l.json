@@ -1,0 +1,1537 @@
+{
+    "trigger_dict": {
+        "1458790457": {
+            "action": [
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                [
+                                    "TABLE", 
+                                    "files"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "first_see_shop"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1458790457000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "f2daaf00-7bf0-4781-b235-823b9d2e6225"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "ready_to_talk"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1458790457000004, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "5ad3aa2eaca011ee8d67bc0ff3c3a5f6"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 1458790457000005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        [
+                                            "TABLE", 
+                                            "files"
+                                        ], 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "VARIABLE"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "first_see_shop"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_BOOLEAN_TABLE_VAR_1D"
+                        }, 
+                        {
+                            "arg_type": 100035, 
+                            "args_list": [
+                                "=="
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "BOOL_COMPARE", 
+                    "element_id": 1458790457000002, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "button_close_shop"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1458790457000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "B1rcj7AOEe6xPrwP88Ol9l", 
+            "p_trigger_id": null, 
+            "trigger_id": 1458790457, 
+            "trigger_name": "after_shop", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1307795514, 
+                            "initiate_game"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1760780347, 
+                            "start_new_game"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1492344892, 
+                            "continue_game"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1291018301, 
+                            "exit"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1005805630, 
+                            "init_again"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            267608127, 
+                            "main_loop"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            670261312, 
+                            "store_the_file"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1962106945, 
+                            "lose_heart"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            737370178, 
+                            "move_decoration"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1676894275, 
+                            "put_decoration"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            989028420, 
+                            "cancel_put"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1022582853, 
+                            "pick_up"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "_trigger_group_": true, 
+                                "group": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            730808542, 
+                                            "enter_deadly_region"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1267831006, 
+                                            "enter_deadly_region_2"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1536278751, 
+                                            "enter_deadly_region_3"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            261222624, 
+                                            "enter_deadly_region_4"
+                                        ]
+                                    }
+                                ], 
+                                "key": "nNcU4bBpEe6EFVw6RbD1Ay", 
+                                "name": "\u8fdb\u5165\u6cbc\u6cfd"
+                            }, 
+                            {
+                                "_trigger_group_": true, 
+                                "group": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            972251233, 
+                                            "leave_deadly_region"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1454227681, 
+                                            "leave_deadly_region_2"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2142101730, 
+                                            "leave_deadly_region_3"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            447623395, 
+                                            "leave_deadly_region_4"
+                                        ]
+                                    }
+                                ], 
+                                "key": "06RRQLBpEe6-H1w6RbD1Ax", 
+                                "name": "\u79bb\u5f00\u6cbc\u6cfd"
+                            }
+                        ], 
+                        "key": "B2LLz7AOEe6v+LwP88Ol9p", 
+                        "name": "deadly_region"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    99836002, 
+                                    "enter_town"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    83058787, 
+                                    "leave_town"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1240686692, 
+                                    "enter_1"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    703815781, 
+                                    "enter_2"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1374904422, 
+                                    "enter_3"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    536043623, 
+                                    "enter_4"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1156800616, 
+                                    "leave_1/2/3/4"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    284385385, 
+                                    "ready_to_talk_chief"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    99836010, 
+                                    "leave_talk"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1693671531, 
+                                    "enter_shop"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    989028460, 
+                                    "leave_shop"
+                                ]
+                            }
+                        ], 
+                        "key": "B2LL0LAOEe6CNLwP88Ol9q", 
+                        "name": "map_region"
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rckLAOEe6vm7wP88Ol9s", 
+                "name": "game_play"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            317939782, 
+                            "open_book"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1005805639, 
+                            "open_transmit"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            912630028, 
+                            "close_link"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1123246189, 
+                                    "open_bag"
+                                ]
+                            }, 
+                            {
+                                "_trigger_group_": true, 
+                                "group": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            619929763, 
+                                            "see_1_1"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1072914596, 
+                                            "see_1_2"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            502489253, 
+                                            "see_1_3"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1442013350, 
+                                            "see_1_4"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1777557671, 
+                                            "see_1_5"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1760780456, 
+                                            "see_1_6"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1257463977, 
+                                            "see_1_7"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1576231082, 
+                                            "see_1_8"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1039360171, 
+                                            "see_1_9"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1190355116, 
+                                            "see_1_10"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1056137389, 
+                                            "see_1_11"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1358127278, 
+                                            "see_1_12"
+                                        ]
+                                    }
+                                ], 
+                                "key": "B3UbT7AOEe62cLwP88Ol9i", 
+                                "name": "page_1"
+                            }, 
+                            {
+                                "_trigger_group_": true, 
+                                "group": [
+                                    {
+                                        "_trigger_group_": true, 
+                                        "group": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    838033588, 
+                                                    "see_2_1"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2062770357, 
+                                                    "see_2_2"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2045993142, 
+                                                    "see_2_3"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1827889335, 
+                                                    "see_2_4"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1341350072, 
+                                                    "see_2_5"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1240686777, 
+                                                    "see_2_6"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2113102010, 
+                                                    "see_2_7"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1626562747, 
+                                                    "see_2_8"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    468934844, 
+                                                    "see_2_9"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1089691837, 
+                                                    "see_2_10"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    636707006, 
+                                                    "see_2_11"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1844666559, 
+                                                    "see_2_12"
+                                                ]
+                                            }
+                                        ], 
+                                        "key": "B40QIbAOEe6RzrwP88Ol9p", 
+                                        "name": "see"
+                                    }, 
+                                    {
+                                        "_trigger_group_": true, 
+                                        "group": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1408458944, 
+                                                    "use_2_1"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    938696897, 
+                                                    "use_2_2"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1492345026, 
+                                                    "use_2_3"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    267608259, 
+                                                    "use_2_4"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1609785540, 
+                                                    "use_2_5"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1039360197, 
+                                                    "use_2_6"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1861443782, 
+                                                    "use_2_7"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    519266503, 
+                                                    "use_2_8"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2045993160, 
+                                                    "use_2_9"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    250831049, 
+                                                    "use_2_10"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    569598154, 
+                                                    "use_2_11"
+                                                ]
+                                            }, 
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    502489291, 
+                                                    "use_2_12"
+                                                ]
+                                            }
+                                        ], 
+                                        "key": "B40QIrAOEe6y4rwP88Ol9j", 
+                                        "name": "use"
+                                    }
+                                ], 
+                                "key": "B3UbULAOEe6a-rwP88Ol9h", 
+                                "name": "page_2"
+                            }, 
+                            {
+                                "_trigger_group_": true, 
+                                "group": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1341350063, 
+                                            "see_3_1"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1492345008, 
+                                            "see_3_2"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            317939889, 
+                                            "see_3_3"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            552820914, 
+                                            "see_3_4"
+                                        ]
+                                    }, 
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1676894387, 
+                                            "see_3_5"
+                                        ]
+                                    }
+                                ], 
+                                "key": "B3UbUbAOEe6sabwP88Ol9t", 
+                                "name": "page_3"
+                            }
+                        ], 
+                        "key": "B2LL0bAOEe6pk7wP88Ol9r", 
+                        "name": "bag"
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rckbAOEe64X7wP88Ol9t", 
+                "name": "UI"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            787701832, 
+                            "get_in_field"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1542676553, 
+                            "leave_field"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            569598026, 
+                            "farming"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            368271435, 
+                            "growing_record"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1727225966, 
+                                    "water"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    586375279, 
+                                    "manure"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1022582896, 
+                                    "shovel"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1173577841, 
+                                    "preplant"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2113101938, 
+                                    "use_light_stone"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1727225971, 
+                                    "harvest"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2062770292, 
+                                    "seed_info_close"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1945329781, 
+                                    "show_another_seed_info"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1341350006, 
+                                    "UI_plant_1"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1559453815, 
+                                    "UI_plant_2"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1710448760, 
+                                    "UI_plant_3"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    921919609, 
+                                    "UI_plant_4"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1072914554, 
+                                    "UI_plant_5"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1072914555, 
+                                    "UI_plant_6"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    938696828, 
+                                    "seed_info_1"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    552820861, 
+                                    "seed_info_2"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    401825918, 
+                                    "seed_info_3"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1408458879, 
+                                    "seed_info_4"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    989028480, 
+                                    "seed_info_5"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2079547521, 
+                                    "seed_info_6"
+                                ]
+                            }
+                        ], 
+                        "key": "B2O2MLAOEe6bBbwP88Ol9h", 
+                        "name": "UI_operation"
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rckrAOEe61EbwP88Ol9t", 
+                "name": "farm"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1811112012, 
+                            "close_shop"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            435380301, 
+                            "open_shop"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1593008206, 
+                            "see_1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1928552527, 
+                            "see_2"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            955474000, 
+                            "see_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            49504337, 
+                            "buy_1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1223909458, 
+                            "buy_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            888365139, 
+                            "buy_2"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rck7AOEe6RA7wP88Ol9g", 
+                "name": "shop"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            200499284, 
+                            "use_skill"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            442974439, 
+                            "UI_skillnow"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1358127234, 
+                                    "to_confuse"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1811112067, 
+                                    "to_bridge"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    133390468, 
+                                    "to_attack"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1223909509, 
+                                    "to_lamp"
+                                ]
+                            }
+                        ], 
+                        "key": "B2acYbAOEe6VErwP88Ol9v", 
+                        "name": "change_skill"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    670261382, 
+                                    "bridge_up"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    888365191, 
+                                    "bridge_down"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1425236104, 
+                                    "close_foresee"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1223909513, 
+                                    "create_bridge"
+                                ]
+                            }
+                        ], 
+                        "key": "B2acYrAOEe67J7wP88Ol9t", 
+                        "name": "bridge"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1878220938, 
+                                    "battery_reset"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1827889291, 
+                                    "battery_lose"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1032446179, 
+                                    "battery_reset_import"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2089410788, 
+                                    "battery_lose_import"
+                                ]
+                            }
+                        ], 
+                        "key": "B2acY7AOEe6r4rwP88Ol9h", 
+                        "name": "battery"
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rclLAOEe6GjrwP88Ol9j", 
+                "name": "skills"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1190355029, 
+                            "get_in_town"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2029215830, 
+                            "get_in_1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            744423652, 
+                            "skip_conversation"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    133390476, 
+                                    "rotate_left"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1727225997, 
+                                    "rotate_right"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1492344974, 
+                                    "rotate_left_up"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2079547535, 
+                                    "rotate_down_up"
+                                ]
+                            }
+                        ], 
+                        "key": "B2bqgLAOEe6q7bwP88Ol9g", 
+                        "name": "rotate"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    754147472, 
+                                    "to_town"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1240686737, 
+                                    "to_1"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    32727186, 
+                                    "to_2"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1374904467, 
+                                    "to_3"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1962107028, 
+                                    "to_4"
+                                ]
+                            }
+                        ], 
+                        "key": "B2bqgbAOEe6Dc7wP88Ol9q", 
+                        "name": "transmit"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1240686741, 
+                                    "sound_up"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    938696854, 
+                                    "sound_long_up"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    435380375, 
+                                    "sound_down"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    536043672, 
+                                    "sound_long_down"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    619929753, 
+                                    "end_up"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1962107034, 
+                                    "end_down"
+                                ]
+                            }
+                        ], 
+                        "key": "B2bqgrAOEe69w7wP88Ol9j", 
+                        "name": "sound"
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rclbAOEe6eZrwP88Ol9l", 
+                "name": "utils"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2113101911, 
+                            "start_conversation"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rclrAOEe6AgLwP88Ol9q", 
+                "name": "conversation"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1827889240, 
+                            "open_1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1425236057, 
+                            "open_2"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1861443674, 
+                            "shuaguai"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1660117083, 
+                            "tingzhi"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            720592988, 
+                            "kaijuqing1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            143401191, 
+                            "shuaguai_import"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            93069544, 
+                            "tingzhi_import"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1754013929, 
+                            "kaijuqing1_import"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1520046308, 
+                            "open_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            295448805, 
+                            "open_4"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rcl7AOEe68kLwP88Ol9t", 
+                "name": "area_1"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1861443677, 
+                            "switch_debug"
+                        ]
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    972251291, 
+                                    "flower_test"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    133390492, 
+                                    "lamp_test"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    989028509, 
+                                    "shoot_test"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    334717086, 
+                                    "bridge_test"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1207132319, 
+                                    "attack_test"
+                                ]
+                            }
+                        ], 
+                        "key": "B2k0cLAOEe6csLwP88Ol9t", 
+                        "name": "skill_test"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    2096324768, 
+                                    "model_test"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1576231073, 
+                                    "plant_test"
+                                ]
+                            }
+                        ], 
+                        "key": "B2k0cbAOEe6QSLwP88Ol9t", 
+                        "name": "farm_test"
+                    }, 
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1425236130, 
+                                    "town_1"
+                                ]
+                            }
+                        ], 
+                        "key": "B2k0crAOEe6KlbwP88Ol9t", 
+                        "name": "story_test"
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1744003166, 
+                            "\u65b0\u5efa\u89e6\u53d1\u5668"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1744003167, 
+                            "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "B1rcmLAOEe6AgLwP88Ol9v", 
+                "name": "debug"
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1458790457, 
+                    "after_shop"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "B1rcj7AOEe6xPrwP88Ol9l", 
+        "name": "SnyWang_trigger"
+    }
+}

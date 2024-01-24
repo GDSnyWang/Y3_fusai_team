@@ -1,0 +1,29 @@
+{
+    "describe": 805254072, 
+    "editor_res": false, 
+    "key": 204234, 
+    "map_name": "X1t4", 
+    "model_id": 503523, 
+    "name": -313094080, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Temperate zone", 
+            "code_Yellow", 
+            "code_Ginkgo tree"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204234", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204234"
+}

@@ -1,0 +1,109 @@
+{
+    "1": 1, 
+    "4": 3.0, 
+    "5": 1, 
+    "6": 0, 
+    "100": 55.0, 
+    "101": 0.0, 
+    "102": 0, 
+    "103": 45.0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
+    "1001": 1.0, 
+    "_custom_": true, 
+    "_ref_": 134270249, 
+    "attach_models": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "base_color_mod": 0, 
+    "base_tint_color": [
+        114, 
+        96, 
+        66, 
+        0.35
+    ], 
+    "cast_shadow": true, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": -1121393185, 
+    "effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "enable_occlusion_perspective": false, 
+    "fresnel_color": [
+        79, 
+        57, 
+        58, 
+        1.0
+    ], 
+    "fresnel_emissive_color_strength": 1, 
+    "fresnel_exp": 10, 
+    "icon": 100000, 
+    "key": 134264319, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 206891, 
+    "model_opacity": 1, 
+    "name": 1268174296, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134264319", 
+    "use_base_tint_color": true, 
+    "use_fresnel": true, 
+    "use_physics": false
+}

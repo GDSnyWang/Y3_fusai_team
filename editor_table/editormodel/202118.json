@@ -1,0 +1,28 @@
+{
+    "describe": 1009699467, 
+    "editor_res": false, 
+    "key": 202118, 
+    "map_name": "Festival", 
+    "model_id": 507667, 
+    "name": -1950844669, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_White", 
+            "code_Rice"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/202118", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "", 
+    "uid": "editor_model_202118"
+}

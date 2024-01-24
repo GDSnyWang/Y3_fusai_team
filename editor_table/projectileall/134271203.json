@@ -1,0 +1,157 @@
+{
+    "_custom_": true, 
+    "_ref_": 134242985, 
+    "async_effect": false, 
+    "description": 1573160817, 
+    "effect_destroy_way_is_immediately": false, 
+    "effect_foes": [
+        103537, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                2.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1.5, 
+                1.5, 
+                1.5
+            ]
+        }, 
+        1.0, 
+        {
+            "anim": "idle1", 
+            "base_color_mod": 0, 
+            "base_tint_color": [
+                101, 
+                101, 
+                101, 
+                0.69
+            ], 
+            "is_loop": true, 
+            "model": 204101, 
+            "model_opacity": 0.9, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    2.0014, 
+                    0.0
+                ]
+            }, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_base_tint_color": true
+        }
+    ], 
+    "effect_friend": [
+        103537, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                2.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1.5, 
+                1.5, 
+                1.5
+            ]
+        }, 
+        1.0, 
+        {
+            "anim": "idle1", 
+            "base_color_mod": 0, 
+            "base_tint_color": [
+                101, 
+                101, 
+                101, 
+                0.69
+            ], 
+            "is_loop": true, 
+            "model": 204101, 
+            "model_opacity": 0.9, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    2.0014, 
+                    0.0
+                ]
+            }, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_base_tint_color": true
+        }
+    ], 
+    "icon": 100000, 
+    "key": 134271203, 
+    "kv": {}, 
+    "max_duration": 60, 
+    "move_channel": 0, 
+    "move_limitation": 1, 
+    "name": -1767043984, 
+    "sfx_loop": false, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134271203"
+}

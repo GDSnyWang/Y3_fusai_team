@@ -1,0 +1,49 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 100446, 
+            "name": "image_3", 
+            "opacity": 0.0, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "c3d27302-697c-427a-985d-71f1bdc3ed6a"
+        }
+    ], 
+    "name": "balck_bg", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [
+        1, 
+        2
+    ], 
+    "uid": "7ab5c44e-7f48-4721-9599-c8365cfcec4b", 
+    "visible": true, 
+    "zorder": 600
+}

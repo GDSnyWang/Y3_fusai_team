@@ -1,0 +1,5 @@
+# -*- encoding:utf-8 -*-
+_reload_all = True
+
+
+data = {134242517: {'model_id': 134243326, 'preview_icon': '', 'name': u'1', 'describe': 134242517, 'key': 134242517, 'res_identify': '', 'scale': 1.0, 'uid': '134242517', 'source_effect': 103753}, 134231401: {'model_id': 134263104, 'preview_icon': '', 'name': u'2', 'describe': 134231401, 'key': 134231401, 'res_identify': '', 'scale': 1.0, 'uid': '134231401', 'source_effect': 103730}, 134236232: {'model_id': 134275743, 'preview_icon': '', 'name': u'3', 'describe': 134236232, 'key': 134236232, 'res_identify': '', 'scale': 1.0, 'uid': '134236232', 'source_effect': 103745}, 134240443: {'model_id': 134277015, 'preview_icon': '', 'name': u'4', 'describe': 134240443, 'key': 134240443, 'res_identify': '', 'scale': 1.0, 'uid': '134240443', 'source_effect': 100872}}

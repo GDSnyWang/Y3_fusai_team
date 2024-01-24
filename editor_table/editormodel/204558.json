@@ -1,0 +1,28 @@
+{
+    "describe": -1946229411, 
+    "editor_res": false, 
+    "key": 204558, 
+    "map_name": "yileizichan", 
+    "model_id": 986025, 
+    "name": -130450974, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_White", 
+            "code_Temperate zone"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204558", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204558"
+}

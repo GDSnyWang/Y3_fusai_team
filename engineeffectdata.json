@@ -1,0 +1,142 @@
+{
+    "base": {
+        "time": 6
+    }, 
+    "bloom": {
+        "bloom_decay": 0.10000000000000003, 
+        "bloom_strength": 1.0
+    }, 
+    "color_grading": {
+        "color_grading_type": 2
+    }, 
+    "env_time_of_day": {
+        "time_of_day_template": 300001
+    }, 
+    "fog": {
+        "color": {
+            "__tuple__": true, 
+            "items": [
+                96, 
+                149, 
+                206, 
+                255
+            ]
+        }, 
+        "density": 1, 
+        "end": 450, 
+        "height_begin": 0, 
+        "height_end": 100, 
+        "height_fog": true, 
+        "height_fog_color": {
+            "__tuple__": true, 
+            "items": [
+                16, 
+                20, 
+                8, 
+                1
+            ]
+        }, 
+        "height_fog_density": 0.8, 
+        "height_fog_end": 0.0, 
+        "height_fog_fall_off": 0.2, 
+        "start": 300
+    }, 
+    "fog_war": {
+        "fog_war_put_gray_color": {
+            "__tuple__": true, 
+            "items": [
+                107, 
+                130, 
+                63, 
+                1
+            ]
+        }
+    }, 
+    "post_style": {
+        "post_style_shader_params": {
+            "1": {
+                "DepthScale": 0.5, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.12156862745098039, 
+                        0.08627450980392157, 
+                        0.054901960784313725
+                    ]
+                }, 
+                "PixelIntensity": 0.0
+            }, 
+            "4": {
+                "DepthScale": 0.0, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.058823529411764705, 
+                        0.25882352941176473, 
+                        0.19607843137254902
+                    ]
+                }, 
+                "TotalControl": 3.58
+            }
+        }, 
+        "post_style_type": 1
+    }, 
+    "shadow_quality": {
+        "fix_sun_shadow_range": 40.0
+    }, 
+    "sky_box": {
+        "sky_box_choose_list": {
+            "__tuple__": true, 
+            "items": [
+                100000, 
+                100001, 
+                100002
+            ]
+        }, 
+        "sky_box_type": 100000
+    }, 
+    "terrain": {
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.051, 
+                        0.123, 
+                        0.341
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.3, 
+                "mat_id": 1, 
+                "name": "\u6c34", 
+                "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.947, 
+                        0.117, 
+                        0.007
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 0.3, 
+                "flow_speed": 0.2, 
+                "mat_id": 2, 
+                "name": "\u5ca9\u6d46", 
+                "original": true
+            }
+        ]
+    }, 
+    "vignetting": {
+        "vignetting_breath_rate": 1.4000000000000004, 
+        "vignetting_open": false, 
+        "vignetting_size": 0.7000000000000001
+    }
+}

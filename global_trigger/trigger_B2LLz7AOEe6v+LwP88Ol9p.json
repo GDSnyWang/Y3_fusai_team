@@ -1,0 +1,83 @@
+{
+    "trigger_dict": {}, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            730808542, 
+                            "enter_deadly_region"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1267831006, 
+                            "enter_deadly_region_2"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1536278751, 
+                            "enter_deadly_region_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            261222624, 
+                            "enter_deadly_region_4"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "nNcU4bBpEe6EFVw6RbD1Ay", 
+                "name": "\u8fdb\u5165\u6cbc\u6cfd"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            972251233, 
+                            "leave_deadly_region"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1454227681, 
+                            "leave_deadly_region_2"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2142101730, 
+                            "leave_deadly_region_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            447623395, 
+                            "leave_deadly_region_4"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "06RRQLBpEe6-H1w6RbD1Ax", 
+                "name": "\u79bb\u5f00\u6cbc\u6cfd"
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "B2LLz7AOEe6v+LwP88Ol9p", 
+        "name": "deadly_region"
+    }
+}

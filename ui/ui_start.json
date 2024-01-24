@@ -1,0 +1,315 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134248327, 
+                    "name": "image_42", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "57a05e17-803a-491b-bdd8-608067d81587"
+                }
+            ], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "image": 134269038, 
+            "name": "image_14", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "dd13f740-cef8-4349-a3bd-c336105d6696"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        false, 
+                        615.0, 
+                        265.0, 
+                        271.0, 
+                        1009.0
+                    ], 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_newgame_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_newgame", 
+                            "normal_picture": 134246221, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u65b0\u6e38\u620f", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    314.0000305175781, 
+                                    167.00009155273438
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.06250476837158, 
+                                    83.50004577636719
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    640.0, 
+                                    60.0
+                                ]
+                            }, 
+                            "touch_scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.9, 
+                                    0.9
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "b615747b-1f73-4e6a-b050-b688f648e813"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_continue_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_continue", 
+                            "normal_picture": 134246221, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u7ee7\u7eed\u6e38\u620f", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    311.0000305175781, 
+                                    97.00003051757812
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.59375476837158, 
+                                    48.50001525878906
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    640.0, 
+                                    60.0
+                                ]
+                            }, 
+                            "touch_scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.9, 
+                                    0.9
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "663e3dce-d3d9-4f45-a9b3-c8ce32778f09"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_exitgame_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_exitgame", 
+                            "normal_picture": 134246221, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u9000\u51fa\u6e38\u620f", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    311.0, 
+                                    27.000030517578125
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.59375, 
+                                    13.500015258789064
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    640.0, 
+                                    60.0
+                                ]
+                            }, 
+                            "touch_scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.9, 
+                                    0.9
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "e161a058-603f-44d4-95f6-e39d13ab51c6"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "layout_4", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            591.0, 
+                            365.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            30.78125, 
+                            33.7962962962963
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            640.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "ec87a77a-e248-4338-8279-c1b62c811152"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134221071, 
+            "name": "image_40", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "306a4701-25b3-4d8f-8c46-b3790ccc28e0"
+        }
+    ], 
+    "name": "ui_start", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "ae3184e4-67dc-4bf1-8078-a89400b56276", 
+    "visible": true, 
+    "zorder": 400
+}

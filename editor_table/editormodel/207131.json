@@ -1,0 +1,29 @@
+{
+    "describe": -1258916828, 
+    "editor_res": false, 
+    "key": 207131, 
+    "map_name": "\u6d77\u5916\u4e00\u7c7b\u573a\u666f02", 
+    "model_id": 945253, 
+    "name": -318630622, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5199\u5b9e", 
+            "\u7d2b\u8272", 
+            "\u704c\u6728", 
+            "\u8568"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/207131", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_207131"
+}

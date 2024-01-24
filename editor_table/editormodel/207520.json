@@ -1,0 +1,29 @@
+{
+    "describe": 763676727, 
+    "editor_res": false, 
+    "key": 207520, 
+    "map_name": "\u6d77\u5916\u4e00\u7c7b\u573a\u666f03", 
+    "model_id": 944100, 
+    "name": 1557380327, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5199\u5b9e", 
+            "\u7ea2\u8272", 
+            "\u6e29\u5e26", 
+            "\u94f6\u674f\u6811"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/207520", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_207520"
+}

@@ -1,0 +1,236 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "MSYH", 
+                    30
+                ]
+            }, 
+            "name": "text", 
+            "over_pattern": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    840.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    77.77777777777779
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    307.0, 
+                    100
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "debug\u6a21\u5f0f\u5f00\u542f", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "3fe972e0-fdb7-4ac2-a435-d1cd438a6cf0"
+        }, 
+        {
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    1, 
+                    0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "MSYH", 
+                    30
+                ]
+            }, 
+            "name": "text2", 
+            "over_pattern": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1544.0, 
+                    499.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    80.41666666666667, 
+                    46.2037037037037
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    695.0, 
+                    470.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5c0f\u952e\u76d81\uff1a\u91d1\u8336\u9999\n\u5c0f\u952e\u76d82\uff1a\u63d0\u706f\n\u5c0f\u952e\u76d83\uff1a\u53d1\u5c04\u51b2\u51fb\u6ce2\n\u5c0f\u952e\u76d84\uff1a\u62f3\u51fb\n\u5c0f\u952e\u76d85\uff1a\u79cd\u690d\u7269\u6a21\u578b\u6982\u89c8(\u8bf7\u524d\u5f80\u7530\u5730)\n\u5c0f\u952e\u76d86\uff1a\u79cd\u690d\u6d4b\u8bd5(\u9700\u5148\u5728\u7530\u5730\u8303\u56f4\u6309\u4e0b\u9f20\u6807\u53f3\u952e\u8fdb\u5165\u79cd\u5730\u6a21\u5f0f)\n\u5c0f\u952e\u76d87\uff1a\u5efa\u6865\u6d4b\u8bd5", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "fcce0db3-ac9e-4782-9495-83472a95f221"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "seed_1_0", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "image": 131074, 
+            "name": "seed_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    682.0, 
+                    207.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    35.520833333333336, 
+                    19.166666666666668
+                ]
+            }, 
+            "type": 4, 
+            "uid": "9c336945-3655-4a6f-a8e3-b66fff81335e", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "seed_2_0", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "image": 131075, 
+            "name": "seed_2", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    885.0, 
+                    207.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    46.09375, 
+                    19.166666666666668
+                ]
+            }, 
+            "type": 4, 
+            "uid": "7eb18d3f-4e52-4872-bdf1-5436bed1a0d5", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "seed_3_0", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "image": 131076, 
+            "name": "seed_3", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1092.0, 
+                    207.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    56.875, 
+                    19.166666666666668
+                ]
+            }, 
+            "type": 4, 
+            "uid": "8ed78c9e-c702-40c8-a28f-0fe1db3f227f", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "seed_4_0", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "image": 131077, 
+            "name": "seed_4", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1301.0, 
+                    207.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    67.76041666666667, 
+                    19.166666666666668
+                ]
+            }, 
+            "type": 4, 
+            "uid": "ac7d1b15-6f20-4260-be5b-a4301ce12dee", 
+            "visible": false
+        }
+    ], 
+    "name": "debug_sign", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "ac54eb82-601e-4275-9e80-1f2c8c5e8d51", 
+    "visible": false, 
+    "zorder": 600
+}

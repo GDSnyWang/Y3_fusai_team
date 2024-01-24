@@ -1,0 +1,388 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                true, 
+                420.0, 
+                420.0, 
+                1530.0, 
+                180.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        25.5, 
+                        179.5, 
+                        56.0, 
+                        26.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "button_toa", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "button_toA", 
+                    "normal_picture": 134279907, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u4e91\u8c37\u9547", 
+                            false
+                        ]
+                    }, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            120.0, 
+                            197.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.14285714285714, 
+                            82.08333333333333
+                        ]
+                    }, 
+                    "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                    "press_picture": 134257576, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            128.0, 
+                            35.0
+                        ]
+                    }, 
+                    "suspend_picture": 134257576, 
+                    "type": 1, 
+                    "uid": "d2451dce-4842-4625-b400-ba2324dbfe1a"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        65.75, 
+                        139.25, 
+                        56.0, 
+                        26.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "button_tob", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "button_tob", 
+                    "normal_picture": 134279907, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u955c\u90fd", 
+                            false
+                        ]
+                    }, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            120.0, 
+                            156.75
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.14285714285714, 
+                            65.3125
+                        ]
+                    }, 
+                    "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                    "press_picture": 134257576, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            128.0, 
+                            35.0
+                        ]
+                    }, 
+                    "suspend_picture": 134257576, 
+                    "type": 1, 
+                    "uid": "cb598e57-1baa-4610-bda7-95a99aff29d3"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        106.0, 
+                        99.0, 
+                        56.0, 
+                        26.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "button_toc", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "button_toc", 
+                    "normal_picture": 134279907, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5149\u53f6", 
+                            false
+                        ]
+                    }, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            120.0, 
+                            116.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.14285714285714, 
+                            48.541666666666664
+                        ]
+                    }, 
+                    "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                    "press_picture": 134257576, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            128.0, 
+                            35.0
+                        ]
+                    }, 
+                    "suspend_picture": 134257576, 
+                    "type": 1, 
+                    "uid": "82b3b299-e848-493d-a9a2-9a4d9f6ec5e9"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        146.25, 
+                        58.75, 
+                        56.0, 
+                        26.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "button_tod", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "button_tod", 
+                    "normal_picture": 134279907, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u82cf\u94c1", 
+                            false
+                        ]
+                    }, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            120.0, 
+                            76.25
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.14285714285714, 
+                            31.770833333333332
+                        ]
+                    }, 
+                    "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                    "press_picture": 134257576, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            128.0, 
+                            35.0
+                        ]
+                    }, 
+                    "suspend_picture": 134257576, 
+                    "type": 1, 
+                    "uid": "cf44b0f3-593a-4e17-93c9-623e18351538"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        186.5, 
+                        18.5, 
+                        56.0, 
+                        26.0
+                    ], 
+                    "bar_status": true, 
+                    "children": [], 
+                    "custom_kv": {}, 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "button_toe", 
+                            "sound_id": 112968, 
+                            "type": 2
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "button_toe", 
+                    "normal_picture": 134279907, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u515c\u5170\u57ce", 
+                            false
+                        ]
+                    }, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            120.0, 
+                            36.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.14285714285714, 
+                            15.0
+                        ]
+                    }, 
+                    "prefab_key": "ae118d14-b63e-4752-9f2f-f007dcd0a6a3", 
+                    "press_picture": 134257576, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            128.0, 
+                            35.0
+                        ]
+                    }, 
+                    "suspend_picture": 134257576, 
+                    "type": 1, 
+                    "uid": "473ab8d0-c35a-4d2e-b243-56fa6abb824c"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134227635, 
+            "name": "warp", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1635.0, 
+                    540.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    85.15625, 
+                    50.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    210.0, 
+                    240.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "8c116789-9ec7-471b-a000-819e738769be"
+        }
+    ], 
+    "name": "ui_warp", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "7273a5c4-c5c1-4c84-9745-9814edac6c9d", 
+    "visible": false, 
+    "zorder": 400
+}

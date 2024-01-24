@@ -1,0 +1,5 @@
+# -*- encoding:utf-8 -*-
+_reload_all = True
+
+
+data = {134243326: {'name': u'1', 'model_id': 134243326, 'effect_path': 'Fx_Effect/Gwsmt/Fx_Skill/Magic/Magic_Gwsmt_yxfsc_b002_copy', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134263104: {'name': u'2', 'model_id': 134263104, 'effect_path': 'Fx_Effect/Gwsmt/Fx_Common/Buff/Buff_Gwsmt_hudun_a001_copy', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134275743: {'name': u'3', 'model_id': 134275743, 'effect_path': 'Fx_Effect/Gwsmt/Fx_Skill/Magic/Magic_Gwsmt_tgxs_c001_copy', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}, 134277015: {'name': u'4', 'model_id': 134277015, 'effect_path': 'Fx_Effect/Cartoon/Fx_Skill/Ballistic/Ballistic_pet_trailling_21_copy', 'meshes': (), 'custom': True, 'effect_keep': True, 'effect_max_life': -1}}

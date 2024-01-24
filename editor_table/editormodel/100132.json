@@ -1,0 +1,28 @@
+{
+    "describe": 775364175, 
+    "editor_res": false, 
+    "key": 100132, 
+    "map_name": "H52\u975e\u4eba\u5b66\u56ed", 
+    "model_id": 100132, 
+    "name": -1603455260, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Green", 
+            "code_Flowers"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100132", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100132"
+}

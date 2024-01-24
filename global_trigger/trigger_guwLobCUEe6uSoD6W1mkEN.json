@@ -1,0 +1,175 @@
+{
+    "trigger_dict": {}, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            628355299, 
+                            "opendoor"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1359040742, 
+                            "newdoor"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2060894474, 
+                            "talk_4_1"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "guwysLCUEe6H2ID6W1mkEH", 
+                "name": "erea4"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "_trigger_group_": true, 
+                        "group": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    588140766, 
+                                    "to_boss"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    386814175, 
+                                    "boss_flower"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    336482528, 
+                                    "boss_xiaoguai"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    672026849, 
+                                    "xiaoguai_die"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1359892706, 
+                                    "boss_delete"
+                                ]
+                            }, 
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    1431040231, 
+                                    "leaveboss"
+                                ]
+                            }
+                        ], 
+                        "key": "guwys7CUEe6KrID6W1mkEJ", 
+                        "name": "boss"
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1510887636, 
+                            "open_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1846431957, 
+                            "open_4"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1678659799, 
+                            "qu1_1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            487477464, 
+                            "qu1_2"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            319705305, 
+                            "qu1_3"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            420368602, 
+                            "qu1_4"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1041125595, 
+                            "qu1_5"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1841488108, 
+                            "\u533a1_6"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "guwysbCUEe62O4D6W1mkEO", 
+                "name": "area1"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1141788892, 
+                            "allAI"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            604917981, 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "guwysrCUEe6Kf4D6W1mkEK", 
+                "name": "enemyAI"
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "guwLobCUEe6uSoD6W1mkEN", 
+        "name": "hello"
+    }
+}

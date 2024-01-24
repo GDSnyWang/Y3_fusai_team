@@ -1,0 +1,29 @@
+{
+    "describe": -1777024897, 
+    "editor_res": false, 
+    "key": 40002, 
+    "map_name": "G57\u4e09\u56fd\u5982\u9f99", 
+    "model_id": 40002, 
+    "name": -1880751284, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Green", 
+            "code_Frigid zone", 
+            "code_Spruce tree"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/40002", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.2, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_40002"
+}

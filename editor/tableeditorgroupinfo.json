@@ -1,0 +1,116 @@
+[
+ {
+  "name": "SnyWang_table", 
+  "key": "CQbEQKouEe61G7wP88Ol9v", 
+  "group": [
+   {
+    "name": "game_play", 
+    "key": "uoS8MKovEe6HILwP88Ol9k", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "f2daaf00-7bf0-4781-b235-823b9d2e6225", 
+       "player"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u5b58\u6863\u8868", 
+    "key": "p-Z68KouEe6aZLwP88Ol9p", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "0fd878ac-890a-4e00-85c1-52a41a00e4fd", 
+       "player_status_store"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "bc786884-7977-48f0-b1e5-ac93be25a278", 
+       "map_status_store"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "05f74af8-10a5-4edf-a356-a4eedcfae8c8", 
+       "decoration_status_store"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "dd001ccc-1e75-4f0b-8a45-9ce2a855fe8b", 
+       "things_status_store"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "02650437-761a-4d47-8149-9c6c5811ef0d", 
+       "field_status_store"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "29c734ab-0789-4bf7-856a-1ec792e1b0ac", 
+       "npc_status_store"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "items", 
+    "key": "U7qIIaueEe6tFbwP88Ol9s", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "65435eff-348b-46e7-8fef-f25f3198c9fc", 
+       "plant"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u5267\u60c5", 
+    "key": "UWbMj63tEe650bwP88Ol9m", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "11503f84-a711-46da-b238-dfeb4438edac", 
+       "story"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "c213f3c3-a5b0-4ca0-b620-8c7a332c364b", 
+       "area_note"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "866f35f6-fc1c-4fa8-8e6c-417b57e7adf2", 
+       "link"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "ee381d4b-7276-48ac-b122-8a0360fc8fef", 
+       "zhinan"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

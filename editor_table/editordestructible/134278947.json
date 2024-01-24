@@ -1,0 +1,115 @@
+{
+    "1": 1, 
+    "3": 0.0, 
+    "5": 1, 
+    "6": 0, 
+    "_custom_": true, 
+    "_ref_": 134263448, 
+    "alive_height_box_data": "22 serialization::archive 17 0 0 0 0 16 0 0 0 0 0 -2 -2 0 0 -70888439808 -2 -1 -68740956160 -2 0 -68719476736 -2 1 -68719476736 -1 -2 -70888439808 -1 -1 -68740956160 -1 0 -68719476736 -1 1 -68719476736 0 -2 -70888439808 0 -1 -68740956160 0 0 -68719476736 0 1 -68719476736 1 -2 -70888439808 1 -1 -68740956160 1 0 -68719476736 1 1 -68719476736 0 0 0 0 0 0 0 0 4294967296 4294967296 4294967296", 
+    "base_color_mod": 0, 
+    "base_tint_color": [
+        12, 
+        14, 
+        3, 
+        0.8
+    ], 
+    "body_size": 1.0, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points_alive": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points_dead": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "dead_height_box_data": "0", 
+    "default_rate": 1.0, 
+    "desc": 84980041, 
+    "description": -647712835, 
+    "destroy_delay": 5, 
+    "destroy_on_die": true, 
+    "die_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "die_on_source_run_out": false, 
+    "effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "enable_occlusion_perspective": false, 
+    "fresnel_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
+    "fresnel_emissive_color_strength": 1, 
+    "fresnel_exp": 10, 
+    "height_num": 11, 
+    "height_offset": 0.25, 
+    "hp_max": 500.0, 
+    "icon": 100000, 
+    "is_ability_target": false, 
+    "is_attacked": false, 
+    "is_collected": false, 
+    "is_selected": false, 
+    "is_x_offset": true, 
+    "is_z_offset": true, 
+    "key": 134278947, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "mini_map_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "model": 200543, 
+    "model_opacity": 1, 
+    "name": 1399511618, 
+    "passable": true, 
+    "receive_decal": false, 
+    "show_on_mini_map": false, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "source_desc": -1896026473, 
+    "source_item": 10000, 
+    "source_nums_init": 0, 
+    "source_nums_max": 10000.0, 
+    "source_player_prop": "official_res_1", 
+    "source_refresh_count": 0, 
+    "source_refresh_interval": 5, 
+    "source_type": 0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134278947", 
+    "use_base_tint_color": true, 
+    "use_fresnel": false, 
+    "width_num": 9, 
+    "width_offset": 0.25
+}

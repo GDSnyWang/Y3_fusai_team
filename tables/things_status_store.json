@@ -1,0 +1,22 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "key", 
+                "things", 
+                "number"
+            ], 
+            [
+                "int", 
+                "item_type", 
+                "int"
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": "dd001ccc-1e75-4f0b-8a45-9ce2a855fe8b"
+}

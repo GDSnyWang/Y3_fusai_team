@@ -1,0 +1,161 @@
+{
+    "conf": {
+        "1006802114": [
+            [
+                "unitAI", 
+                100006
+            ]
+        ], 
+        "1070309848": [
+            [
+                "UnitAI", 
+                100006
+            ]
+        ], 
+        "1127347062": [], 
+        "1144835623": [], 
+        "1186135813": [
+            [
+                "note", 
+                100031
+            ]
+        ], 
+        "1203893487": [
+            [
+                "boss", 
+                100031
+            ]
+        ], 
+        "1215522236": [
+            [
+                "num", 
+                100002
+            ]
+        ], 
+        "1254119249": [
+            [
+                "light", 
+                100205
+            ]
+        ], 
+        "1298213180": [
+            [
+                "door", 
+                100205
+            ]
+        ], 
+        "1387369662": [
+            [
+                "boss", 
+                100031
+            ]
+        ], 
+        "1439452537": [], 
+        "1732091716": [
+            [
+                "1", 
+                100006
+            ]
+        ], 
+        "1911108189": []
+    }, 
+    "group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                1006802114, 
+                "AI_water"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1070309848, 
+                "AI_ground"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1186135813, 
+                "UI_note"
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1144835623, 
+                        "battery_lose"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1127347062, 
+                        "battery_reset"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1215522236, 
+                        "lose_heart"
+                    ]
+                }
+            ], 
+            "key": "tRBmAK1KEe6Wj7wP88Ol9g", 
+            "name": "SnyWang_event"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1911108189, 
+                "init"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1732091716, 
+                "AI_straight_import"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1387369662, 
+                "BOSS1_xiaoguai_import_import"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1203893487, 
+                "BOSS1_flower_import_import"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1298213180, 
+                "opendoor"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1254119249, 
+                "openlight"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1439452537, 
+                "fight_over"
+            ]
+        }
+    ]
+}

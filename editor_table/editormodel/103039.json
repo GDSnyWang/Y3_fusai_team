@@ -1,0 +1,30 @@
+{
+    "describe": -2118554287, 
+    "editor_res": false, 
+    "key": 103039, 
+    "map_name": "H69\u8bf8\u795e\u9ec4\u660f1", 
+    "model_id": 230026, 
+    "name": 740172492, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Red", 
+            "code_Frigid zone", 
+            "code_Pine tree"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/103039", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_103039"
+}

@@ -1,0 +1,385 @@
+{
+    "trigger_dict": {}, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            149651601, 
+                            "farm_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            669745298, 
+                            "level_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2062254227, 
+                            "decoration_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1458274452, 
+                            "game_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            116097173, 
+                            "file_load"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            166428822, 
+                            "things_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1324056727, 
+                            "player_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1877704856, 
+                            "map_init"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1944813721, 
+                            "bgm_init"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KwrANEe65x7wP88Ol9m", 
+                "name": "init"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1760264346, 
+                            "store_file"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            32211099, 
+                            "item_event"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            535527580, 
+                            "player_move"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            938180765, 
+                            "fall_down"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            216760478, 
+                            "forbid_move"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1592492191, 
+                            "allow_move"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            518750368, 
+                            "start_lose_count"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            686522529, 
+                            "back_to_town"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1693155490, 
+                            "is_safe"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1676378275, 
+                            "plant_to_seed"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2062254244, 
+                            "seed_to_plant"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            938180773, 
+                            "closeset_item"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1760264358, 
+                            "heart_UI"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            300646567, 
+                            "bgm_manage"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1023127819, 
+                            "link"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6Kw7ANEe6iQLwP88Ol9n", 
+                "name": "utils"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1626046632, 
+                            "get_closest"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            401309865, 
+                            "show_closest"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1407942826, 
+                            "get_plant_num"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            787185835, 
+                            "plant_seed"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KxLANEe6ry7wP88Ol9t", 
+                "name": "farm"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1391165612, 
+                            "flower"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            367755437, 
+                            "foresee_bridge"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1189839022, 
+                            "attack"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            837517487, 
+                            "lamp"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            904626352, 
+                            "lamp_end"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            216760497, 
+                            "shoot1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            451641523, 
+                            "shoot"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KxbANEe600rwP88Ol9l", 
+                "name": "skills"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1542160564, 
+                            "set_conversation"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1558937781, 
+                            "get_charac_num"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1340833974, 
+                            "attachment"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1139507383, 
+                            "precondition"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KxrANEe6Dz7wP88Ol9q", 
+                "name": "conversation"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1860927672, 
+                            "town_1"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6Kx7ANEe6q6bwP88Ol9s", 
+                "name": "story"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            552304825, 
+                            "show_shop"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1709932730, 
+                            "store_thing"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KyLANEe6l2bwP88Ol9i", 
+                "name": "shop"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1693155515, 
+                            "foresee_deco"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "vF6KybANEe6vd7wP88Ol9i", 
+                "name": "decoration"
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "vF6KwbANEe65W7wP88Ol9u", 
+        "name": "play_func"
+    }
+}

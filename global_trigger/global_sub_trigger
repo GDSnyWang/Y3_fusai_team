@@ -1,0 +1,350 @@
+{
+    "2045091859": {
+        "action": [
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100023, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "ROUND_AREA", 
+                                                    "\u77f3\u80a4\u533a\u57df"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 2
+                                    }
+                                ], 
+                                "condition_type": "TYPE_IS_EXIST", 
+                                "element_id": 2045091859629736, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "IF_THEN_ELSE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100021, 
+                                        "args_list": [
+                                            {
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100004, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100006, 
+                                                                "args_list": [
+                                                                    9
+                                                                ], 
+                                                                "sub_type": 1
+                                                            }
+                                                        ], 
+                                                        "sub_type": "UNIT_ENTITY_POINT"
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100023, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "ROUND_AREA", 
+                                                                    "\u77f3\u80a4\u533a\u57df"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 2
+                                                    }
+                                                ], 
+                                                "condition_type": "WHETHER_POINT_IN_AREA", 
+                                                "element_id": 2045091859000014, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [
+                                            {
+                                                "action_type": "UNIT_ADD_TAG", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100003, 
+                                                        "args_list": [
+                                                            "NOwater"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "element_id": 2045091859629769, 
+                                                "enable": true
+                                            }, 
+                                            {
+                                                "action_type": "UNIT_ADD_TAG", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100003, 
+                                                        "args_list": [
+                                                            "NOdamege"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "element_id": 2045091859629832, 
+                                                "enable": true
+                                            }, 
+                                            {
+                                                "action_type": "SET_UNIT_MOVE_CHANNEL_AIR", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "comment_enable": false, 
+                                                "element_id": 719769614629617, 
+                                                "enable": true, 
+                                                "op_arg": [
+                                                    {
+                                                        "arg_type": 100001, 
+                                                        "args_list": [
+                                                            true
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "op_arg_enable": [
+                                                    true
+                                                ]
+                                            }, 
+                                            {
+                                                "action_type": "UNIT_RAISE_HEIGHT", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            200
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "comment_enable": false, 
+                                                "element_id": 719769614629634, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [
+                                            {
+                                                "action_type": "SET_UNIT_MOVE_CHANNEL_LAND", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "comment_enable": false, 
+                                                "element_id": 719769614629620, 
+                                                "enable": true, 
+                                                "op_arg": [
+                                                    {
+                                                        "arg_type": 100001, 
+                                                        "args_list": [
+                                                            true
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100001, 
+                                                        "args_list": [
+                                                            true
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100001, 
+                                                        "args_list": [
+                                                            true
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "op_arg_enable": [
+                                                    true, 
+                                                    false, 
+                                                    false
+                                                ]
+                                            }, 
+                                            {
+                                                "action_type": "UNIT_RAISE_HEIGHT", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "comment_enable": false, 
+                                                "element_id": 719769614629637, 
+                                                "enable": true
+                                            }, 
+                                            {
+                                                "action_type": "UNIT_REMOVE_TAG", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100003, 
+                                                        "args_list": [
+                                                            "NOwater"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "element_id": 2045091859629774, 
+                                                "enable": true
+                                            }, 
+                                            {
+                                                "action_type": "UNIT_REMOVE_TAG", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            9
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100003, 
+                                                        "args_list": [
+                                                            "NOdamege"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "element_id": 2045091859629839, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 2045091859000002, 
+                                "enable": true, 
+                                "fake_op": [
+                                    2
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 2045091859629727, 
+                "enable": true, 
+                "fake_op": []
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [], 
+        "func_category": "t_function", 
+        "func_comment": "", 
+        "func_des": "\u602a\u7269\u5904\u4e8e\u8ff7\u9b42\u9999\u65f6\uff0c\u73a9\u5bb6\u53ef\u8e29\u4e0a\u53bb\u5e76\u5347\u9ad8200", 
+        "func_id": "3e9f4f6191ff11ee9aef906f1801b60f", 
+        "func_name": "step_on", 
+        "group_id": 0, 
+        "is_func": true, 
+        "is_official_func": false, 
+        "p_trigger_id": null, 
+        "trigger_id": 2045091859, 
+        "trigger_name": "step_on", 
+        "valid": false
+    }
+}
